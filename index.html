@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>単語帳アプリ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #gameArea {
+            display: none;
+        }
+        #modeSelection {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>単語帳テスト</h1>
+
+    <div id="fileUpload">
+        <p>ゲームを開始するには、CSVファイル（data.txt）を読み込む必要があります。</p>
+    </div>
+
+    <div id="modeSelection" style="display:none;">
+        <p>出題モードを選んでください:</p>
+        <button onclick="startGame(1)">1. 英単語 → 日本語訳</button>
+        <button onclick="startGame(2)">2. 日本語訳 → 英単語</button>
+        <button onclick="startGame(3)">3. ランダムモード</button>
+    </div>
+
+    <div id="gameArea" style="display:none;">
+        <p id="question"></p>
+        <input type="text" id="answerInput" placeholder="答えを入力してください">
+        <button onclick="checkAnswer()">答える</button>
+        <p id="feedback"></p>
+        <button id="nextButton" onclick="nextQuestion()">次の問題へ</button>
+        <button id="exitButton" onclick="exitGame()">終了</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
