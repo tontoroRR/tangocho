@@ -13,16 +13,23 @@
 <body>
   <h1>英単語クイズ</h1>
   <div class="word" id="word">読み込み中...</div>
-  <div class="hint" id="hint"></div>
-  <div class="result" id="result"></div>
 
-  <div id="button_group_response">
-    <button onclick="markCorrect()">わかった</button>
-    <button onclick="skipWord()">スキップ</button>
-    <button onclick="showHint()">ヒント</button>
-    <button onclick="endQuiz()">やめる</button>
+  <div id="buttons" style="margin-bottom: 1rem;">
+    <div id="button_group_response">
+      <button onclick="markCorrect()">わかった</button>
+      <button onclick="skipWord()">スキップ</button>
+      <button onclick="showHint()">ヒント</button>
+      <button onclick="endQuiz()">やめる</button>
+    </div>
+
+    <div id="button_group_continue" style="display:none;">
+      <button onclick="nextWord()">次の問題に進む</button>
+      <button onclick="endQuiz()">やめる</button>
+    </div>
   </div>
 
+  <div class="hint" id="hint"></div>
+  <div class="result" id="result"></div>
 
   <div style="margin-top: 1rem; margin-bottom: 1rem;">
     <div style="font-size: 0.9em;">正答率</div>
@@ -30,11 +37,6 @@
       <div id="accuracy-bar" style="height: 100%; width: 0%; background-color: #4caf50;"></div>
     </div>
     <div id="accuracy-text" style="font-size: 0.9em; margin-top: 4px;">（0問中、0問正解）</div>
-  </div>
-
-  <div id="button_group_continue" style="display:none;">
-    <button onclick="nextWord()">次の問題に進む</button>
-    <button onclick="endQuiz()">やめる</button>
   </div>
 
   <div id="button_group_restart" style="display:none;">

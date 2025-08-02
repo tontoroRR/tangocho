@@ -6,16 +6,32 @@ let correctCount = 0;
 let totalCount = 0;
 
 async function loadWords() {
+  words = [];
   const res = await fetch('/data/target_1900.json');
   words = await res.json();
   pickNewWord();
+}
+
+function initializeGame() {
+  usedIds = new Set();
+  current = null;
+  hintStage = 0;
+  correctCount = 0;
+  totalCount = 0;
+
+  document.getElementById('word').textContent = '⏳ 準備中...';
+  document.getElementById('hint').textContent = '';
+  document.getElementById('result').inertHTML = '';
+  updateAccuracyDisplay(correctCount, totalCount);
+
+  showResponseButtons();
 }
 
 function pickNewWord() {
   if (usedIds.size === words.length) {
     document.getElementById('word').textContent = '🎉 全ての単語を出題し終えました。';
     document.getElementById('hint').textContent = '';
-    document.getElementById('result').textContent = '';
+    document.getElementById('result').innerHTML = '';
 
     showRestartButtons();
     return;
@@ -33,7 +49,7 @@ function pickNewWord() {
 
   document.getElementById('word').textContent = `🔹 この単語の意味は？ → ${current.word}`;
   document.getElementById('hint').textContent = '';
-  document.getElementById('result').textContent = '';
+  document.getElementById('result').innerHTML = '';
 }
 
 function showHint() {
@@ -41,14 +57,12 @@ function showHint() {
   hintStage++;
   const hintBox = document.getElementById('hint');
   if (hintStage === 1) {
-    //hintBox.textContent = `🟢 英語例文: ${current.example.english}`;
     hintBox.innerHTML = `<div>ヒント:</div>`
     hintBox.innerHTML += `<div>🟢 英語例文: ${current.example.english}</div>`;
   } else if (hintStage === 2) {
     hintBox.innerHTML += `<div>🟡 日本語訳: ${current.example.japanese}</div>`;
   } else if (hintStage === 3) {
     skipWord();
-    // hintBox.textContent = `🔴 意味: ${current.meanings.join(', ')}`;
   } else {
     hintBox.textContent = `📝 これ以上ヒントはありません。`;
   }
@@ -97,14 +111,15 @@ function markCorrect() {
   if (!current) return;
   correctCount++;
   document.getElementById('result').innerHTML = `<div>⭕ 正解: 「${current.meanings.join(' ; ')}」</div>`;
+  updateAccuracyDisplay(correctCount, totalCount);
   showContinueButtons();
 }
 
 function skipWord() {
   if (!current) return;
   document.getElementById('result').innerHTML = `<div>❌ 不正解: 「${current.meanings.join(' ; ')}」</div>`;
+  updateAccuracyDisplay(correctCount, totalCount);
   showContinueButtons();
-  // setTimeout(pickNewWord, 1500);
 }
 
 function nextWord() {
@@ -121,7 +136,15 @@ function endQuiz() {
   result.innerHTML += `<div>正解数: ${correctCount} / 出題数: ${totalCount}</div>`;
   result.innerHTML += `<div>正解率: ${(correctCount / totalCount * 100).toFixed(1)}</div>`;
 
+  updateAccuracyDisplay(correctCount, totalCount);
+
   showRestartButtons();
 }
 
+function resetGame() {
+  initializeGame();
+  pickNewWord();
+}
+
+initializeGame();
 loadWords();
