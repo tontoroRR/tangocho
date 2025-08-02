@@ -1,3 +1,4 @@
+let 
 let words = [];
 let usedIds = new Set();
 let current = null;
@@ -7,7 +8,7 @@ let totalCount = 0;
 
 async function loadWords() {
   words = [];
-  const res = await fetch('/data/target_1900.json');
+  const res = await fetch('../data/target_1900.json');
   words = await res.json();
   pickNewWord();
 }
