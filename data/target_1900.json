@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "word": "create",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を創り出す",
+      "を引き起こす"
+    ],
+    "example": {
+      "english": "Technological change will create new ways of living.",
+      "japanese": "技術の変化は新たな生活様式を創り出す。"
+    }
+  },
+  {
+    "id": 2,
+    "word": "increase",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "増加する",
+      "を増やす"
+    ],
+    "example": {
+      "english": "Japan's real GDP increased by 1.9 percent last year.",
+      "japanese": "日本の実質GDPは昨年1.9パーセント増加した。"
+    }
+  },
+  {
+    "id": 3,
+    "word": "improve",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を向上させる",
+      "よくなる"
+    ],
+    "example": {
+      "english": "Light exercise improves thinking ability.",
+      "japanese": "軽い運動は思考力を向上させる。"
+    }
+  },
+  {
+    "id": 4,
+    "word": "mean",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を意味する",
+      "(...する）つもりである(to do)"
+    ],
+    "example": {
+      "english": "Her silence means that she does not agree with you",
+      "japanese": "彼女の沈黙は彼女があなたに同意してないことを意味する。"
+    }
+  },
+  {
+    "id": 5,
+    "word": "own",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を所有する",
+      "（事実・罪など）を認める"
+    ],
+    "example": {
+      "english": "A millionaire from China owns this hotel.",
+      "japanese": "中国の富豪がこのホテルを所有している。"
+    }
+  },
+  {
+    "id": 6,
+    "word": "include",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を含む"
+    ],
+    "example": {
+      "english": "Jane's work includes typing letters and making appointments.",
+      "japanese": "ジェーンの仕事は手紙をタイプしたり、アポを取ったりすることを含む。"
+    }
+  },
+  {
+    "id": 7,
+    "word": "consider",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を見なす",
+      "について考える",
+      "consider A (to B) B 「AをBとみなす」"
+    ],
+    "example": {
+      "english": "She considers herself to be lucky.",
+      "japanese": "彼女は自分自身を幸運だと見なしている。"
+    }
+  }
+]
