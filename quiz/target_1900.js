@@ -1,4 +1,3 @@
-let 
 let words = [];
 let usedIds = new Set();
 let current = null;
