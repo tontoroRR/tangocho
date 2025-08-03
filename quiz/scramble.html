@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>語順並べ替えクイズ</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    .choices button {
+      margin: 5px;
+      padding: 10px;
+    }
+    .answer-box {
+      margin: 15px 0;
+      padding: 10px;
+      background: #f0f0f0;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>語順並べ替えクイズ</h1>
+  <div id="quiz-area">
+    <p><strong>単語:</strong> <span id="word"></span></p>
+    <p><strong>並び替えてください:</strong></p>
+    <div id="choices" class="choices"></div>
+
+    <h3>あなたの解答:</h3>
+    <div id="answer" class="answer-box"></div>
+
+    <button onclick="checkAnswer()">✅ 判定</button>
+    <button onclick="nextQuestion()">➡️ 次の問題</button>
+    <button onclick="showHint()">💡 ヒント</button>
+    <button onclick="resetAnswer()">🔁 やり直す</button>
+    <button onclick="quitGame()" style="background-color: #eee;">🚪 ゲームをやめる</button>
+
+    <p id="result"></p>
+    <p id="hint" class="hidden"></p>
+  </div>
+
+  <script src="./common.js"></script>
+  <script src="./scramble.js"></script>
+</body>
+</html>

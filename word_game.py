@@ -2,7 +2,7 @@ import json
 import random
 
 # JSONファイルの読み込み
-with open("target_1900.json", "r", encoding="utf-8") as f:
+with open("data/target_1900.json", "r", encoding="utf-8") as f:
     words = json.load(f)
 
 # 出題ループ
