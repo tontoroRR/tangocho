@@ -9,7 +9,7 @@ async function loadWords() {
   words = [];
   const res = await fetch('../data/target_1900.json');
   words = await res.json();
-  pickNewWord();
+  pickNewWord(words);
 }
 
 function initializeGame() {
@@ -27,7 +27,11 @@ function initializeGame() {
   showResponseButtons();
 }
 
-function pickNewWord() {
+function pickNewWord(_words) {
+  if (words.length == 0 && _words.length != words.length) {
+    words = _words;
+  }
+
   if (usedIds.size === words.length) {
     document.getElementById('word').textContent = '🎉 全ての単語を出題し終えました。';
     document.getElementById('hint').textContent = '';
@@ -124,7 +128,7 @@ function skipWord() {
 
 function nextWord() {
   showResponseButtons();
-  pickNewWord();
+  pickNewWord(words);
 }
 
 function endQuiz() {
@@ -143,8 +147,12 @@ function endQuiz() {
 
 function resetGame() {
   initializeGame();
-  pickNewWord();
+  pickNewWord(words);
+}
+
+function finishGame() {
+  window.location.href = "../index.html";
 }
 
 initializeGame();
-loadWords();
+cmnLoadWords(words, pickNewWord);
