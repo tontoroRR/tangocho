@@ -1,0 +1,23 @@
+.choices button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 1em;
+}
+
+.answer-box {
+  margin: 15px 0px;
+  padding: 10px;
+  background: #f0f0f0;
+}
+
+.hidden {
+  display: none;
+}
+
+button.quit {
+  background-color: #ecc
+}
+
+button.quit:hover {
+  background-color: #dcc
+}
