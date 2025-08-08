@@ -1,32 +1,29 @@
-let wordList = [];
 let current = {};
 let shuffled = [];
 let answer = [];
 
-async function loadWords() {
-  const res = await fetch("../data/target_1900.json");
-  wordList = await res.json();
-  nextQuestion();
-}
+function showQuestion() {
+  if (current === null) {
+    finishAllWords();
+    return;
+  }
 
-function nextQuestion() {
-  document.getElementById("hint").classList.add("hidden");
-  document.getElementById("result").textContent = "";
-  document.getElementById("answer").textContent = "";
+  document.getElementById('hint').classList.add('hidden');
+  document.getElementById('result').innerHTML = '';
+  document.getElementById('answer').textContent = '';
   answer = [];
 
-  current = wordList[Math.floor(Math.random() * wordList.length)];
-  document.getElementById("word").textContent = current.word;
+  document.getElementById('quiz-message').textContent = `${current.word} を使った文章を正しく並び変えよう！`;
 
   const tokens = tokenize(current.example.english);
   shuffled = [...tokens].sort(() => Math.random() - 0.5);
 
-  const choicesDiv = document.getElementById("choices");
-  choicesDiv.innerHTML = "";
+  const choicesDiv = document.getElementById('choices');
+  choicesDiv.innerHTML = '';
 
   shuffled.forEach((token, i) => {
-    const btn = document.createElement("button");
-    btn.textContent = `${i + 1}. ${token}`;
+    const btn = document.createElement('button');
+    btn.textContent = token;
     btn.onclick = () => {
       answer.push(token);
       btn.disabled = true;
@@ -34,23 +31,12 @@ function nextQuestion() {
     };
     choicesDiv.appendChild(btn);
   });
+
+  showResponseButtons();
 }
 
 function tokenize(sentence) {
   return sentence.match(/[^\s]+/g);
-}
-
-function tokenize_old(sentence) {
-  const raw = sentence.match(/\w+|[^\w\s]/g);
-  const tokens = [];
-  for (let i = 0; i < raw.length; i++) {
-    if (",.!?;:'0123456789\"".includes(raw[i]) && tokens.length > 0) {
-      tokens[tokens.length - 1] += raw[i];
-    } else {
-      tokens.push(raw[i]);
-    }
-  }
-  return tokens;
 }
 
 function updateAnswer() {
@@ -58,10 +44,26 @@ function updateAnswer() {
 }
 
 function checkAnswer() {
-  const correct = tokenize(current.example.english).join(" ");
+  const correct = current.example.english; // tokenize(current.example.english).join(" ");
   const user = answer.join(" ");
   const result = document.getElementById("result");
-  result.textContent = (correct === user) ? "⭕ 正解！" : `❌ 不正解\n正解: ${correct}`;
+
+  if (correct === user) {
+    correctCount++;
+    result.textContent = `⭕ 正解！: 意味「${current.example.japanese}」`;
+  } else {
+    result.textContent = `❌ 不正解: 回答「${correct}」`;
+  }
+
+  updateAccuracyDisplay(correctCount, totalCount);
+  showContinueButtons();
+}
+
+function skipQuestion() {
+  if (!current) return;
+  document.getElementById('result').innerHTML = `<div>❌ 回答: 「${current.example.english}」</div>`;
+  updateAccuracyDisplay(correctCount, totalCount);
+  showContinueButtons();
 }
 
 function showHint() {
@@ -94,4 +96,5 @@ function quitGame() {
   document.getElementById("hint").classList.add("hidden");
 }
 
-window.onload = loadWords;
+initializeGame();
+cmnLoadWords(words, newGame);

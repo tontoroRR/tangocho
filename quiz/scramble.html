@@ -1,48 +1,57 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang='ja'>
 <head>
-  <meta charset="UTF-8">
+  <meta charset='UTF-8'>
   <title>語順並べ替えクイズ</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      padding: 20px;
-    }
-    .choices button {
-      margin: 5px;
-      padding: 10px;
-    }
-    .answer-box {
-      margin: 15px 0;
-      padding: 10px;
-      background: #f0f0f0;
-    }
-    .hidden {
-      display: none;
-    }
-  </style>
+  <link rel='stylesheet' href='common.css'>
+  <link rel='stylesheet' href='scramble.css'>
 </head>
 <body>
   <h1>語順並べ替えクイズ</h1>
-  <div id="quiz-area">
-    <p><strong>単語:</strong> <span id="word"></span></p>
-    <p><strong>並び替えてください:</strong></p>
-    <div id="choices" class="choices"></div>
-
+  <div class='bar-area'>
+    <div style='margin-bottom: 4px;'>
+      <span>正答率: </span>
+      <span id="accuracy-rate"></span>
+      <span id="accuracy-text">（0問中、0問正解）</span>
+    </div>
+    <div class='bar-wrapper'>
+      <div class='bar-correct' id="accuracy-bar"></div>
+    </div>
+  </div>
+  <div class='main-message' id='quiz-message'>読み込み中...</div>
+  <div id='quiz-area'>
+    <div id='choices' class='choices'></div>
     <h3>あなたの解答:</h3>
-    <div id="answer" class="answer-box"></div>
+    <div id='answer' class='answer-box'></div>
 
-    <button onclick="checkAnswer()">✅ 判定</button>
-    <button onclick="nextQuestion()">➡️ 次の問題</button>
-    <button onclick="showHint()">💡 ヒント</button>
-    <button onclick="resetAnswer()">🔁 やり直す</button>
-    <button onclick="quitGame()" style="background-color: #eee;">🚪 ゲームをやめる</button>
+    <div id='buttons'>
+      <div id='button_group_response'>
+        <button onclick='checkAnswer()'>✅ 判定</button>
+        <button onclick='skipQuestion()'>➡️ スキップ</button>
+        <button onclick='showHint()'>💡 ヒント</button>
+        <button onclick='resetAnswer()'>🔁 やり直す</button>
+        <button class='quit' onclick='endQuiz()'>🚪 やめる</button>
+      </div>
 
-    <p id="result"></p>
-    <p id="hint" class="hidden"></p>
+      <div id="button_group_continue" style="display:none;">
+        <button onclick="nextQuestion()">➡️ 次の問題に進む</button>
+        <button onclick="endQuiz()">🚪 やめる</button>
+      </div>
+    </div>
+
+    <div class='hint' id='hint' class='hidden'></div>
   </div>
 
-  <script src="./common.js"></script>
-  <script src="./scramble.js"></script>
+  <div id='result-area'>
+    <p id='result'></p>
+
+    <div id="button_group_restart" style="display:none;">
+      <button onclick="resetGame()">もう一度初めから</button>
+      <button onclick="finishGame()">終わりにしてクイズ選択画面に戻る</button>
+    </div>
+  </div>
+
+  <script src='./common.js'></script>
+  <script src='./scramble.js'></script>
 </body>
 </html>
