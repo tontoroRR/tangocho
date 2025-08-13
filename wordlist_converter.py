@@ -15,8 +15,8 @@ json_file = 'data/target_1900.json'
 data = []
 
 # CSV読み込みと整形
-with open(csv_file, mode='r', encoding='utf-8') as f:
-    reader = csv.reader(f)
+with open(csv_file, mode='r', encoding='utf-8', newline='') as f:
+    reader = csv.reader(f, delimiter=',', quotechar='"')
     for row in reader:
         if len(row) < 6:
             continue
