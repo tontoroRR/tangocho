@@ -20,6 +20,9 @@ with open(csv_file, mode='r', encoding='utf-8', newline='') as f:
     for row in reader:
         if len(row) < 6:
             continue
+        if len(row) == 7:
+            row[4] = row[4].strip() + ', ' + row[5].strip()
+            row[5] = row[6]
         # 行の要素を整形して辞書化
         entry = {
                 "id": int(row[0].strip()),

@@ -507,5 +507,321 @@
       "english": "The military deprived the citizens of their liberty.",
       "japanese": "軍隊は国民から自由を奪った。"
     }
+  },
+  {
+    "id": 1026,
+    "word": "govern",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）統治する",
+      "支配する"
+    ],
+    "example": {
+      "english": "The mayour governed our city for over ten years.",
+      "japanese": "その市長は10年以上にわたって我が市を統治した。"
+    }
+  },
+  {
+    "id": 1027,
+    "word": "log",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "(log onで）ログオンする",
+      "を記録する"
+    ],
+    "example": {
+      "english": "Emma logs on to her e-mail account many times a day.",
+      "japanese": "エマは1日に何回もEメールのアカウントにログオンする。"
+    }
+  },
+  {
+    "id": 1028,
+    "word": "transmit",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を伝える",
+      "（電波・信号など）を送る"
+    ],
+    "example": {
+      "english": "During the war， the soldier transmitted messages throught radio signals.",
+      "japanese": "戦争中、その兵士は無線信号を通じてメッセージを伝えた。"
+    }
+  },
+  {
+    "id": 1029,
+    "word": "bully",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をいじめる",
+      "を脅す"
+    ],
+    "example": {
+      "english": "The boy stopped some other boys from bullying a girl.",
+      "japanese": "その少年はほかの少年たちが少女をいじめることをやめさせた。"
+    }
+  },
+  {
+    "id": 1030,
+    "word": "leap",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "跳ぶ",
+      "さっと動く",
+      "急上昇する"
+    ],
+    "example": {
+      "english": "When the doorbell rang, he leaped from the bed and rushed to the entrance.",
+      "japanese": "玄関のベルが鳴ったとき、彼はベッドから跳び降りて戸口に急いだ。"
+    }
+  },
+  {
+    "id": 1031,
+    "word": "astonish",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を驚かす"
+    ],
+    "example": {
+      "english": "We were astonished at the surprise visit of the famous actor.",
+      "japanese": "私たちは有名な俳優の突然の訪問に驚いた。"
+    }
+  },
+  {
+    "id": 1032,
+    "word": "thrill",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をぞくぞくさせる",
+      "わくわくする"
+    ],
+    "example": {
+      "english": "Her violin performance thrilled the audience.",
+      "japanese": "彼女のバイオリン演奏は聴衆をぞくぞくさせた。"
+    }
+  },
+  {
+    "id": 1033,
+    "word": "nod",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "うなずく",
+      "会釈する",
+      "うとうとする"
+    ],
+    "example": {
+      "english": "The patient nodded in agreement with her doctor.",
+      "japanese": "患者は担当の医師に同意してうなずいた。"
+    }
+  },
+  {
+    "id": 1034,
+    "word": "bow",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "おじぎする",
+      "屈服する"
+    ],
+    "example": {
+      "english": "The actors bowed to the audience after the musical was over.",
+      "japanese": "ミュージカルが終わった後、俳優たちは観客に向かっておじぎをした。"
+    }
+  },
+  {
+    "id": 1035,
+    "word": "blend",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を混ぜる",
+      "を調和させる",
+      "（～に）溶け込む（into）"
+    ],
+    "example": {
+      "english": "The coffee brand blends Ethiopian beans with Brazilian ones.",
+      "japanese": "そのコーヒーブランドはエチオピア産の豆をブラジル産の豆と混ぜ合わせる。"
+    }
+  },
+  {
+    "id": 1036,
+    "word": "complicate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を複雑にする"
+    ],
+    "example": {
+      "english": "Only Lina disagreed with us， which complicated the situation.",
+      "japanese": "リーナだけが私たちに反対し、そのことが状況を複雑にした。"
+    }
+  },
+  {
+    "id": 1037,
+    "word": "pitch",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を投げる",
+      "倒れる",
+      "縦揺れする"
+    ],
+    "example": {
+      "english": "She pitched some wood into the fire.",
+      "japanese": "彼女はいくらかの木を火の中に投げ入れた。"
+    }
+  },
+  {
+    "id": 1038,
+    "word": "persist",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "続く",
+      "固執する"
+    ],
+    "example": {
+      "english": "His sadness persisted for a long time after his mother's death.",
+      "japanese": "母親の死後、彼の悲しみは長い間続いた。"
+    }
+  },
+  {
+    "id": 1039,
+    "word": "dedicate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をささげる",
+      "を献呈する"
+    ],
+    "example": {
+      "english": "He dedicates his life to the study of insects.",
+      "japanese": "彼は人生を昆虫の研究にささげている。"
+    }
+  },
+  {
+    "id": 1040,
+    "word": "equip",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "に備え付ける"
+    ],
+    "example": {
+      "english": "Robert's new car is equipped with a great music system.",
+      "japanese": "ロバートの新しい車は素晴らしい音楽装置を備えている。"
+    }
+  },
+  {
+    "id": 1041,
+    "word": "premise",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "前提",
+      "（～s）（建物を含めた）構内、敷地"
+    ],
+    "example": {
+      "english": "All logical arguments have two premises and a conclusion.",
+      "japanese": "論理的な主張はすべて2つの前提と1つの結論を備えている。"
+    }
+  },
+  {
+    "id": 1042,
+    "word": "input",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "入力（情報）、投入",
+      "（情報・時間などの）提供"
+    ],
+    "example": {
+      "english": "The incorrect input of data led to the wrong conclusion.",
+      "japanese": "不正確なデータの入力が誤った結論につながった。"
+    }
+  },
+  {
+    "id": 1043,
+    "word": "merit",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "利点",
+      "功績",
+      "真価"
+    ],
+    "example": {
+      "english": "The novel has the merit of being informative and entertaining.",
+      "japanese": "その小説には情報に富みおもしろいという利点がある。"
+    }
+  },
+  {
+    "id": 1044,
+    "word": "sympathy",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "同情",
+      "（～に対する）共感（with/for)"
+    ],
+    "example": {
+      "english": "I had sympathy for my injured friend.",
+      "japanese": "私はけがをした友人に同情した。"
+    }
+  },
+  {
+    "id": 1045,
+    "word": "compliment",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "賛辞",
+      "表敬"
+    ],
+    "example": {
+      "english": "After receiving a compliment from his teacher， he smiled back.",
+      "japanese": "先生から賛辞を受けた後、彼はほほえみを返した。"
+    }
+  },
+  {
+    "id": 1046,
+    "word": "infrastructure",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "インフラ",
+      "基本的施設",
+      "（経済）基盤"
+    ],
+    "example": {
+      "english": "The typhoon destroyed much of the city's infrastructure.",
+      "japanese": "その台風は市のインフラの多くを破壊した。"
+    }
+  },
+  {
+    "id": 1047,
+    "word": "ray",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "光線",
+      "ひらめき、一筋の光明"
+    ],
+    "example": {
+      "english": "The sun's rays are strongest in the summer.",
+      "japanese": "太陽光線は夏に最も強くなる。"
+    }
+  },
+  {
+    "id": 1048,
+    "word": "distress",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "苦悩",
+      "苦痛",
+      "困窮"
+    ],
+    "example": {
+      "english": "Mary's poor behavior causes great distress for her mother.",
+      "japanese": "メアリーの良くない行動が彼女の母親にとって大きな苦悩の原因である。"
+    }
+  },
+  {
+    "id": 1049,
+    "word": "joint",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "関節",
+      "接合（部）"
+    ],
+    "example": {
+      "english": "I twisted one of my knee joints while running.",
+      "japanese": "私はランニング中に片方のひざの関節をひねった。"
+    }
   }
 ]
