@@ -89,5 +89,423 @@
       "english": "She considers herself to be lucky.",
       "japanese": "彼女は自分自身を幸運だと見なしている。"
     }
+  },
+  {
+    "id": 8,
+    "word": "allow",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を許す",
+      "を与える",
+      "(～を)考慮に入れる(for)"
+    ],
+    "example": {
+      "english": "The company allows its employees to take long winter vacations.",
+      "japanese": "その会社は従業員が長い冬期休暇をとるのを許している。"
+    }
+  },
+  {
+    "id": 9,
+    "word": "suggest",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を提案する",
+      "を暗示する"
+    ],
+    "example": {
+      "english": "The teacher suggested that he study physics in university.",
+      "japanese": "先生は彼が大学で物理学を学ぶことを提案した。"
+    }
+  },
+  {
+    "id": 10,
+    "word": "produce",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を生産する",
+      "を取り出す"
+    ],
+    "example": {
+      "english": "The manufacturer produces hoe electrical appliances.",
+      "japanese": "その製造業者は家庭用電化製品を生産している。"
+    }
+  },
+  {
+    "id": 11,
+    "word": "decide",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を決める",
+      "に決着をつける"
+    ],
+    "example": {
+      "english": "She has decided to memorize ten English words a day.",
+      "japanese": "彼女は1日に10個の英単語を覚えることに決めた。"
+    }
+  },
+  {
+    "id": 12,
+    "word": "offer",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を提供する",
+      "申し出る"
+    ],
+    "example": {
+      "english": "Uncle George offered me an opportunity to work for his company.",
+      "japanese": "ジョージおじさんは彼の会社で働く機会を私に提供した。"
+    }
+  },
+  {
+    "id": 13,
+    "word": "require",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を要求する",
+      "を必要とする"
+    ],
+    "example": {
+      "english": "The Road Traffice Law requires you to wear a seat belt.",
+      "japanese": "道路交通法はあなたがシートベルトを着用することを要求する。"
+    }
+  },
+  {
+    "id": 14,
+    "word": "share",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を共有する",
+      "を分担する"
+    ],
+    "example": {
+      "english": "I share my office space with other people.",
+      "japanese": "私はほかの人々と事務所スペースを共有している。"
+    }
+  },
+  {
+    "id": 1001,
+    "word": "negotiate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を（交渉して）取り決める"
+    ],
+    "example": {
+      "english": "I will negotiate with the client about the delivery date.",
+      "japanese": "私が納期に関して顧客と交渉します。"
+    }
+  },
+  {
+    "id": 1002,
+    "word": "grasp",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を把握[理解]する",
+      "をしっかり握る"
+    ],
+    "example": {
+      "english": "The children were able to grasp the new ideas from the lesson.",
+      "japanese": "子供たちはその課に出てきた新しい考えを理解することができた。"
+    }
+  },
+  {
+    "id": 1003,
+    "word": "donate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を寄付する",
+      "（臓器・血液）を提供する"
+    ],
+    "example": {
+      "english": "People from many countries donate money to UNICEF.",
+      "japanese": "多くの国の人がユニセフにお金を寄付する。"
+    }
+  },
+  {
+    "id": 1004,
+    "word": "arrest",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を逮捕する",
+      "と止める",
+      "（注意）を引く"
+    ],
+    "example": {
+      "english": "The police arrested the suspect on charges of supplying drugs.",
+      "japanese": "警察は麻薬を供給した罪でその容疑者を逮捕した。"
+    }
+  },
+  {
+    "id": 1005,
+    "word": "crack",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "ひびが入る",
+      "にひびを入れる"
+    ],
+    "example": {
+      "english": "The glass door cracked when the man bumped into it.",
+      "japanese": "そのガラスのドアは男がそれにぶつかったときにひびが入った。"
+    }
+  },
+  {
+    "id": 1006,
+    "word": "tap",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を軽くたたく",
+      "（液体）を出す",
+      "を盗聴する"
+    ],
+    "example": {
+      "english": "The child was repeatedly tapping the smartphone screen.",
+      "japanese": "その子供はスマートフォンの画面を繰り返し軽くたたいていた。"
+    }
+  },
+  {
+    "id": 1007,
+    "word": "split",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を分割する",
+      "を分担する",
+      "分裂する"
+    ],
+    "example": {
+      "english": "The Sudan was split into two republics in 2011.",
+      "japanese": "スーダンは2011年に2つの共和国に分割された。"
+    }
+  },
+  {
+    "id": 1008,
+    "word": "forecast",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を予想[予測]する"
+    ],
+    "example": {
+      "english": "The weather for tomorrow is forecasted to be cloudy.",
+      "japanese": "明日の天気は曇りと予測されている。"
+    }
+  },
+  {
+    "id": 1009,
+    "word": "exclude",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を除外する"
+    ],
+    "example": {
+      "english": "Tax was excluded from the price.",
+      "japanese": "税金は価格から除外されていた。"
+    }
+  },
+  {
+    "id": 1010,
+    "word": "overlook",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を見落とす",
+      "を大目に見る",
+      "を見渡す"
+    ],
+    "example": {
+      "english": "He overlooked some important facts during his research.",
+      "japanese": "彼は研究の中でいくつかの重要な事実を見落とした。"
+    }
+  },
+  {
+    "id": 1011,
+    "word": "burst",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "破裂する",
+      "（～を）突然始める（into）"
+    ],
+    "example": {
+      "english": "The bubble economy in Japan burst in the 1990s.",
+      "japanese": "日本のバブル経済は1990年代に崩壊した。"
+    }
+  },
+  {
+    "id": 1012,
+    "word": "heal",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（人・傷など）を治す",
+      "治る"
+    ],
+    "example": {
+      "english": "The therapist has healed many peopler with desease.",
+      "japanese": "その治療師は大勢の病気にかかっている人々を治した。"
+    }
+  },
+  {
+    "id": 1013,
+    "word": "forbid",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を禁じる"
+    ],
+    "example": {
+      "english": "The art museum forbids visitors from taking pictures inside the building.",
+      "japanese": "その美術館は来館者が館内で写真を撮ることを禁じている。"
+    }
+  },
+  {
+    "id": 1014,
+    "word": "install",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をインストールする",
+      "を設置する",
+      "を就任させる"
+    ],
+    "example": {
+      "english": "Yesterday",
+      "japanese": "I installed some new apps on my smartphone."
+    }
+  },
+  {
+    "id": 1015,
+    "word": "diminish",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を減らす",
+      "減少する"
+    ],
+    "example": {
+      "english": "The counselor taught me some ways to diminish anxiety.",
+      "japanese": "カウンセラーは私に不安を減らすためのいくつかの方法を教えてくれた。"
+    }
+  },
+  {
+    "id": 1016,
+    "word": "cite",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を引き合いに出す",
+      "を引用する"
+    ],
+    "example": {
+      "english": "The doctor cited the case of a man who survived five operations.",
+      "japanese": "医師は5度の手術を乗り越えた男性の事例を引き合いに出した。"
+    }
+  },
+  {
+    "id": 1017,
+    "word": "quote",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を引用する",
+      "を引き合いに出す"
+    ],
+    "example": {
+      "english": "She quoted an old Chinese proverb in her speech.",
+      "japanese": "彼女は演説の中で古い中国のことわざを引用した。"
+    }
+  },
+  {
+    "id": 1018,
+    "word": "dispute",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "に異議を唱える",
+      "（を）議論する"
+    ],
+    "example": {
+      "english": "I dusputed the reviews that said the movie was good.",
+      "japanese": "私はその映画がすぐれていると言っている批評に異議を唱えた。"
+    }
+  },
+  {
+    "id": 1019,
+    "word": "highlight",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を目立たせる",
+      "強調する"
+    ],
+    "example": {
+      "english": "The news story highlights the problem of children using smartphones.",
+      "japanese": "そのニュース記事は子供のスマホ使用がはらむ問題を強調している。"
+    }
+  },
+  {
+    "id": 1020,
+    "word": "distract",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（注意など）をそらす"
+    ],
+    "example": {
+      "english": "Loud music always distracts me from reading.",
+      "japanese": "大音量の音楽はいつも私の気を読書からそらす。"
+    }
+  },
+  {
+    "id": 1021,
+    "word": "cheat",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をだます",
+      "不正をする"
+    ],
+    "example": {
+      "english": "The salesperson cheated his customers out of their money.",
+      "japanese": "その販売員は顧客から金をだまし取った。"
+    }
+  },
+  {
+    "id": 1022,
+    "word": "foster",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をはぐくむ",
+      "を養育する",
+      "を心に抱く"
+    ],
+    "example": {
+      "english": "Teachers have a good chance to foster their students' thinking ability.",
+      "japanese": "教師は生徒の考える力をはぐくむよい機会を持っている。"
+    }
+  },
+  {
+    "id": 1023,
+    "word": "obey",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "に従う",
+      "に服従する"
+    ],
+    "example": {
+      "english": "We ought to obery traffic rules so we have fewer accidents.",
+      "japanese": "私たちは事故を少なくするために交通規則に従うべきである。"
+    }
+  },
+  {
+    "id": 1024,
+    "word": "bend",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を曲げる",
+      "を屈服させる",
+      "曲がる"
+    ],
+    "example": {
+      "english": "She cannot bend her right elbow due to her injury.",
+      "japanese": "彼女はけがのせいで右ひじを曲げることができない。"
+    }
+  },
+  {
+    "id": 1025,
+    "word": "deprive",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "から（権利などを)奪う"
+    ],
+    "example": {
+      "english": "The military deprived the citizens of their liberty.",
+      "japanese": "軍隊は国民から自由を奪った。"
+    }
   }
 ]
