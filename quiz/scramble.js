@@ -8,6 +8,7 @@ function showQuestion() {
     return;
   }
 
+  document.getElementById('quiz-title').textContent = `語順並べ替えクイズ 第${totalCount}問`;
   document.getElementById('hint').classList.add('hidden');
   document.getElementById('result').innerHTML = '';
   document.getElementById('answer').textContent = '';
@@ -81,6 +82,11 @@ function resetAnswer() {
   btns.forEach(btn => {
     btn.disabled = false;
   });
+}
+
+function retrySameQuiz() {
+  totalCount++;
+  showQuestion();
 }
 
 function quitGame() {
