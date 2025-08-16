@@ -47,7 +47,7 @@
       "(...する）つもりである(to do)"
     ],
     "example": {
-      "english": "Her silence means that she does not agree with you",
+      "english": "Her silence means that she does not agree with you.",
       "japanese": "彼女の沈黙は彼女があなたに同意していないことを意味する。"
     }
   },
@@ -822,6 +822,2697 @@
     "example": {
       "english": "I twisted one of my knee joints while running.",
       "japanese": "私はランニング中に片方のひざの関節をひねった。"
+    }
+  },
+  {
+    "id": 1050,
+    "word": "expedition",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "遠征（隊）、探検（隊）"
+    ],
+    "example": {
+      "english": "He went on an expedition to the South Pole.",
+      "japanese": "彼は南極への探検に出発した。"
+    }
+  },
+  {
+    "id": 1051,
+    "word": "adolescent",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "青年"
+    ],
+    "example": {
+      "english": "Society must protect adolescents from dangerous websites.",
+      "japanese": "社会は青年を危険なウェブサイトから守らなければならない。"
+    }
+  },
+  {
+    "id": 1052,
+    "word": "shade",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（日）陰",
+      "色合い",
+      "日よけ",
+      "微妙な相違"
+    ],
+    "example": {
+      "english": "An elderly woman was sitting under the shade of a big tree.",
+      "japanese": "1人の老婦人が大きな木の陰に座っていた。"
+    }
+  },
+  {
+    "id": 1053,
+    "word": "jury",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "陪審（員団）",
+      "審査員団"
+    ],
+    "example": {
+      "english": "A trial by jury is a standard practice in America.",
+      "japanese": "アメリカでは陪審による裁判が標準的な習慣である。"
+    }
+  },
+  {
+    "id": 1054,
+    "word": "ethic",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "倫理",
+      "道徳",
+      "（～s）倫理［道徳］規範"
+    ],
+    "example": {
+      "english": "The country's people have a strong work ethic.",
+      "japanese": "その国の人々は強い労働倫理を持っている。"
+    }
+  },
+  {
+    "id": 1055,
+    "word": "penalty",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（刑）罰",
+      "罰金",
+      "ペナルティ"
+    ],
+    "example": {
+      "english": "He faced a heavy penalty for kidnapping.",
+      "japanese": "彼は誘拐に対して重い刑罰を科された。"
+    }
+  },
+  {
+    "id": 1056,
+    "word": "faculty",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "能力、機能",
+      "学部",
+      "教授陣"
+    ],
+    "example": {
+      "english": "Using your creative faculties might help you solve the problem.",
+      "japanese": "創造力を使うことはあなたがその問題を解決する助けになるかもしれない。"
+    }
+  },
+  {
+    "id": 1057,
+    "word": "scheme",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "計画",
+      "体系",
+      "陰謀"
+    ],
+    "example": {
+      "english": "The new housing scheme is only made possible by government action.",
+      "japanese": "新しい住宅供給計画は政府の働きかけがあって初めて可能になる。"
+    }
+  },
+  {
+    "id": 1058,
+    "word": "nutrition",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "栄養（の摂取）"
+    ],
+    "example": {
+      "english": "The child receives balanced nutrition from a variety of foods.",
+      "japanese": "その子供は種々の食べ物からバランスのいい栄養を取っている。"
+    }
+  },
+  {
+    "id": 1059,
+    "word": "particle",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（微）粒子",
+      "ほんのわずか"
+    ],
+    "example": {
+      "english": "Cars release various gases and particles into the air.",
+      "japanese": "車は空気中にさまざまなガスや粒子を放出する。"
+    }
+  },
+  {
+    "id": 1060,
+    "word": "molecule",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "分子",
+      "微粒子"
+    ],
+    "example": {
+      "english": "Electron microscopes allow us to investigate organic molecules.",
+      "japanese": "電子顕微鏡は私たちが有機分子を調べるのを可能にする。"
+    }
+  },
+  {
+    "id": 1061,
+    "word": "nationality",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "国籍",
+      "国民",
+      "国民性"
+    ],
+    "example": {
+      "english": "People say that her nationality is Japanese.",
+      "japanese": "彼女の国籍は日本だと言われている。"
+    }
+  },
+  {
+    "id": 1062,
+    "word": "poll",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "世論調査",
+      "投票（数）"
+    ],
+    "example": {
+      "english": "An opinion poll asks people about their political preferences.",
+      "japanese": "世論調査は人々に政治的志向について尋ねる。"
+    }
+  },
+  {
+    "id": 1063,
+    "word": "clinic",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "診療所",
+      "クリニック",
+      "（病院内の）～科"
+    ],
+    "example": {
+      "english": "He started a medical clinic after working at a university hospital.",
+      "japanese": "彼は大学病院で働いた後、内科診療所を始めた。"
+    }
+  },
+  {
+    "id": 1064,
+    "word": "dementia",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "認知症"
+    ],
+    "example": {
+      "english": "Some aging patients with dementia go missing when they are out alone.",
+      "japanese": "認知症の高齢患者の中には1人で外出すると行方不明になる人がいる。"
+    }
+  },
+  {
+    "id": 1065,
+    "word": "fatigue",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "疲労"
+    ],
+    "example": {
+      "english": "The best way to relieve your fatigue is to have sufficient sleep.",
+      "japanese": "疲労を和らげる最善の方法は十分な睡眠をとることである。"
+    }
+  },
+  {
+    "id": 1066,
+    "word": "dilemma",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "ジレンマ",
+      "板挟み"
+    ],
+    "example": {
+      "english": "He is faced with the dilemma of whether to quit his job.",
+      "japanese": "彼は仕事を辞めるかどうかというジレンマに直面している。"
+    }
+  },
+  {
+    "id": 1067,
+    "word": "queue",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（順番を待つ）列"
+    ],
+    "example": {
+      "english": "He joined the queue of people waiting for the bus.",
+      "japanese": "彼はバスを待つ人々の列に加わった。"
+    }
+  },
+  {
+    "id": 1068,
+    "word": "curve",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（道路などの）カーブ",
+      "曲線"
+    ],
+    "example": {
+      "english": "He drove through many curves on the mountain roads.",
+      "japanese": "彼は山道のたくさんのカーブを車で通り抜けた。"
+    }
+  },
+  {
+    "id": 1069,
+    "word": "narrative",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "物語、話",
+      "（小説の）叙述部分、地の文"
+    ],
+    "example": {
+      "english": "He wrote a narrative based on his years living abroad.",
+      "japanese": "彼は自分の外国生活を基にした物語を書いた。"
+    }
+  },
+  {
+    "id": 1070,
+    "word": "fingerprint",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "指紋"
+    ],
+    "example": {
+      "english": "Even a fingerprint left on a glass may cause a complaint from a customer.",
+      "japanese": "グラスに残っている指紋でさえも客からの苦情を招くことがある。"
+    }
+  },
+  {
+    "id": 1071,
+    "word": "file",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "ファイル",
+      "（書類の）とじ込み"
+    ],
+    "example": {
+      "english": "Please refer to the attached file for the details.",
+      "japanese": "詳細については添付のファイルを参照してください。"
+    }
+  },
+  {
+    "id": 1072,
+    "word": "wilderness",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "荒野",
+      "（庭・町などの）放置された部分"
+    ],
+    "example": {
+      "english": "He is planning to explore the Alaskan wilderness.",
+      "japanese": "彼はアラスカの荒野を探検することを計画している。"
+    }
+  },
+  {
+    "id": 1073,
+    "word": "pesticide",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "殺虫剤",
+      "除草剤"
+    ],
+    "example": {
+      "english": "Organic foods are produced without chemical pesticides.",
+      "japanese": "有機食品は化学殺虫剤を使わずに作られる。"
+    }
+  },
+  {
+    "id": 1074,
+    "word": "panic",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "パニック（状態)",
+      "狼狽"
+    ],
+    "example": {
+      "english": "She got into a panic when she couldn't find her credit card.",
+      "japanese": "彼女はクレジットカードが見つからなかったとき、パニックに陥った。"
+    }
+  },
+  {
+    "id": 1075,
+    "word": "fabric",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "織物、布（地）",
+      "構造"
+    ],
+    "example": {
+      "english": "Using organic cotton as fabric for clothes has become widespread.",
+      "japanese": "洋服の生地としてオーガニックコットンを使うことが広まっている。"
+    }
+  },
+  {
+    "id": 1076,
+    "word": "fantasy",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "空想",
+      "幻想",
+      "幻想的作品"
+    ],
+    "example": {
+      "english": "The unique feature of this movie is its fusion of reality and fantasy.",
+      "japanese": "この映画の独自の特徴は現実と空想の融合である。"
+    }
+  },
+  {
+    "id": 1077,
+    "word": "fancy",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（気まぐれな）好み",
+      "空想",
+      "思いつき"
+    ],
+    "example": {
+      "english": "I took a great fancy to my piano teacher.",
+      "japanese": "私はピアノの先生をとても好きになった。"
+    }
+  },
+  {
+    "id": 1078,
+    "word": "virtue",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "美徳",
+      "長所",
+      "効能"
+    ],
+    "example": {
+      "english": "Most children are taught the virtue of honesty from old stories.",
+      "japanese": "たいていの子供は昔話から正直という美徳を教わる。"
+    }
+  },
+  {
+    "id": 1079,
+    "word": "grateful",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "感謝している"
+    ],
+    "example": {
+      "english": "I am really grateful to you and your family for your hospitality.",
+      "japanese": "私はあなたとあなたのご家族の親切なおもてなしに本当に感謝しています。"
+    }
+  },
+  {
+    "id": 1080,
+    "word": "valid",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "妥当な",
+      "有効な"
+    ],
+    "example": {
+      "english": "The conclusion he drew from the evidence was valid.",
+      "japanese": "彼がその証拠から導いた結論は妥当であった。"
+    }
+  },
+  {
+    "id": 1081,
+    "word": "elaborate",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "入念な",
+      "凝った"
+    ],
+    "example": {
+      "english": "He made an elaborate plan to climb Mont Blanc.",
+      "japanese": "彼はモンブランに登る入念な計画を立てた。"
+    }
+  },
+  {
+    "id": 1082,
+    "word": "moderate",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "適度な",
+      "穏健な"
+    ],
+    "example": {
+      "english": "The doctor recommended that my father take moderate exercise every day.",
+      "japanese": "医師は私の父に毎日適度な運動をするように勧めた。"
+    }
+  },
+  {
+    "id": 1083,
+    "word": "dynamic",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "活動的な、精力的な",
+      "動的な"
+    ],
+    "example": {
+      "english": "All the audience was touched by the dynamic performance of the actor.",
+      "japanese": "観客は皆その役者の精力的な演技に感動した。"
+    }
+  },
+  {
+    "id": 1084,
+    "word": "brave",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "勇敢な",
+      "見事な"
+    ],
+    "example": {
+      "english": "He was a brave fighter who challenged hundreds of enemies by himself.",
+      "japanese": "彼は1人で何百人もの敵兵に挑んだ勇敢な兵士であった。"
+    }
+  },
+  {
+    "id": 1085,
+    "word": "brilliant",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "素晴らしい",
+      "才能にあふれた",
+      "きらめく"
+    ],
+    "example": {
+      "english": "She is such a brilliant violinist that she can play any type of music.",
+      "japanese": "彼女はとても素晴らしいバイオリン奏者で、どんな種類の音楽も演奏することができる。"
+    }
+  },
+  {
+    "id": 1086,
+    "word": "tremendous",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "途方もない、莫大な",
+      "すばらしい"
+    ],
+    "example": {
+      "english": "Tokyo spent a tremendous amount of money on moving its fish market.",
+      "japanese": "東京都は魚市場を移転することに莫大な金額を費やした。"
+    }
+  },
+  {
+    "id": 1087,
+    "word": "oral",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "口頭の"
+    ],
+    "example": {
+      "english": "The student gave an oral report on the subject.",
+      "japanese": "その生徒はその課題について口頭での報告をした。"
+    }
+  },
+  {
+    "id": 1088,
+    "word": "innocent",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "無罪の",
+      "無邪気な",
+      "無知の"
+    ],
+    "example": {
+      "english": "The court found her innocent and she was released.",
+      "japanese": "裁判所が彼女を無罪だと判定し、彼女は釈放された。"
+    }
+  },
+  {
+    "id": 1089,
+    "word": "subsequent",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "その後の"
+    ],
+    "example": {
+      "english": "The village was severely damaged by heavy rains and subsequent floods.",
+      "japanese": "村は豪雨とその後の洪水によって大きな損害を受けた。"
+    }
+  },
+  {
+    "id": 1090,
+    "word": "shallow",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "浅い",
+      "浅薄な"
+    ],
+    "example": {
+      "english": "Children can walk around in the shallow end of the pool.",
+      "japanese": "子供たちはプールの浅いほうの端で歩き回ることができる。"
+    }
+  },
+  {
+    "id": 1091,
+    "word": "indifferent",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "無関心な"
+    ],
+    "example": {
+      "english": "Many young people are indifferent to politics and the economy.",
+      "japanese": "多くの若者は政治や経済に無関心である。"
+    }
+  },
+  {
+    "id": 1092,
+    "word": "inferior",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "より劣った"
+    ],
+    "example": {
+      "english": "I think this wine is inferior to that wine in flavor.",
+      "japanese": "このワインはあのワインより風味が劣っていると私は思う。"
+    }
+  },
+  {
+    "id": 1093,
+    "word": "awkward",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "気まずい",
+      "ぎこちない",
+      "厄介な"
+    ],
+    "example": {
+      "english": "After her remark, there was an awkward silence.",
+      "japanese": "彼女の発言の後、気まずい沈黙があった。"
+    }
+  },
+  {
+    "id": 1094,
+    "word": "obese",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "肥満した"
+    ],
+    "example": {
+      "english": "A survey shows that 30 percent of men are obese.",
+      "japanese": "ある調査は男性の30%が肥満であることを示している。"
+    }
+  },
+  {
+    "id": 1095,
+    "word": "pregnant",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "妊娠した",
+      "（～で）満ちている（with）"
+    ],
+    "example": {
+      "english": "Pregnant women are advised not to take any medicine.",
+      "japanese": "妊娠している女性はいかなる薬も服用しないように勧められる。"
+    }
+  },
+  {
+    "id": 1096,
+    "word": "intimate",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "親密な",
+      "密接な"
+    ],
+    "example": {
+      "english": "The actress described her intimate relationship with her husband.",
+      "japanese": "その女優は夫との親密な関係について述べた。"
+    }
+  },
+  {
+    "id": 1097,
+    "word": "medieval",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "中世の",
+      "時代遅れの"
+    ],
+    "example": {
+      "english": "He has a deep interest in medieval European history.",
+      "japanese": "彼は中世ヨーロッパ史に深い関心を抱いている。"
+    }
+  },
+  {
+    "id": 1098,
+    "word": "sacred",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "神聖な",
+      "宗教的な",
+      "厳粛な"
+    ],
+    "example": {
+      "english": "Buddhists in Osaka paid a large sum to maintain their sacred temple.",
+      "japanese": "大阪の仏教徒たちは自分たちの神聖な寺を維持するために大金を払った。"
+    }
+  },
+  {
+    "id": 1099,
+    "word": "simultaneously",
+    "part_of_speech": "副詞・前置詞",
+    "meanings": [
+      "（～と）同時に（with）",
+      "一斉に"
+    ],
+    "example": {
+      "english": "Suddenly, heavy rain hit the town simultaneously with lightning.",
+      "japanese": "突然、雷と同時に大雨が町を襲った。"
+    }
+  },
+  {
+    "id": 1100,
+    "word": "versus",
+    "part_of_speech": "副詞・前置詞",
+    "meanings": [
+      "（A versus Bで）A対B",
+      "AかBか"
+    ],
+    "example": {
+      "english": "A lot of soccer fans watched the Brazil versus Italy game on TV.",
+      "japanese": "多くのサッカーファンがブラジル対イタリアの試合をテレビで見た。"
+    }
+  },
+  {
+    "id": 1101,
+    "word": "proceed",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "進む、進行する",
+      "（～を）続行する（with）"
+    ],
+    "example": {
+      "english": "In case of emergency, please proceed calmly to the nearest exit.",
+      "japanese": "緊急の場合、落ち着いて最寄りの出口にお進みください。"
+    }
+  },
+  {
+    "id": 1102,
+    "word": "orient",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（人）を（環境などに）慣らす（to）",
+      "（受身形で）（関心などが）（～に）向いている"
+    ],
+    "example": {
+      "english": "The event is helpful for orienting new students to our university.",
+      "japanese": "このイベントは新入生を我が大学に慣れさせるのに役立つ。"
+    }
+  },
+  {
+    "id": 1103,
+    "word": "surf",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（インターネット上の情報など）を見て回る"
+    ],
+    "example": {
+      "english": "He surfs the Internet constantly, collecting information about political scandals.",
+      "japanese": "彼は絶えずネットのサイトを見て回り、政治的スキャンダルに関する情報を集めている。"
+    }
+  },
+  {
+    "id": 1104,
+    "word": "filter",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をろ過する",
+      "を取り除く"
+    ],
+    "example": {
+      "english": "This device is designed to filter out dirt from the water.",
+      "japanese": "この装置は水からごみを取り除くように作られている。"
+    }
+  },
+  {
+    "id": 1105,
+    "word": "bind",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を縛る",
+      "を束縛する",
+      "を結び付ける"
+    ],
+    "example": {
+      "english": "She bound the sheets of paper together with string.",
+      "japanese": "彼女はひもでそれらの紙をひとまとめに縛った。"
+    }
+  },
+  {
+    "id": 1106,
+    "word": "resort",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（好ましくない手段に）訴える、頼る（to）"
+    ],
+    "example": {
+      "english": "If the criminals' demands are not accepted, they may resort to force.",
+      "japanese": "犯人たちの要求が受け入れられなければ、彼らは武力に訴えるかもしれない。"
+    }
+  },
+  {
+    "id": 1107,
+    "word": "reinforce",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を強化する",
+      "を補強する"
+    ],
+    "example": {
+      "english": "The student reinforced his knowledge by taking extra lessons online.",
+      "japanese": "その生徒はオンラインで追加レッスンを受けることで知識を強化した。"
+    }
+  },
+  {
+    "id": 1108,
+    "word": "accumulate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を蓄積する、集める",
+      "積もる"
+    ],
+    "example": {
+      "english": "The couple accumulated $20, 000 to buy a new car.",
+      "japanese": "その夫婦は新車を購入するために20000ドルを貯めた。"
+    }
+  },
+  {
+    "id": 1109,
+    "word": "bet",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "と確信する、断言する",
+      "（金などを）かける"
+    ],
+    "example": {
+      "english": "If you work hard, I bet you can complete this task in a month.",
+      "japanese": "懸命に働けば、きっと君は一か月でこの仕事を完了できるよ。"
+    }
+  },
+  {
+    "id": 1110,
+    "word": "advocate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を主張する",
+      "を擁護する"
+    ],
+    "example": {
+      "english": "Vegans advocate avoiding all food of animal origin.",
+      "japanese": "完全菜食主義者は動物由来のすべての食べ物を避けることを主張する。"
+    }
+  },
+  {
+    "id": 1111,
+    "word": "constitute",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を構成する",
+      "になる、に等しい"
+    ],
+    "example": {
+      "english": "At our university, women constitute the majority of the psychology majors.",
+      "japanese": "私たちの大学では、女性が心理学専攻学生の大多数を構成する。"
+    }
+  },
+  {
+    "id": 1112,
+    "word": "undertake",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を引き受ける",
+      "を保証する",
+      "に着手する"
+    ],
+    "example": {
+      "english": "She undertook the task of preparing all the necessary materials.",
+      "japanese": "彼女は必要な資料をすべてそろえるという仕事を引き受けた。"
+    }
+  },
+  {
+    "id": 1113,
+    "word": "grip",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を握る",
+      "をとらえる"
+    ],
+    "example": {
+      "english": "Scared by the noise, she gripped her father's arm tightly.",
+      "japanese": "物音におびえて、彼女は父親の腕をしっかりと握った。"
+    }
+  },
+  {
+    "id": 1114,
+    "word": "dismiss",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（意見など）を退ける",
+      "を解雇する"
+    ],
+    "example": {
+      "english": "My boss dismissed my opinion as nonsense.",
+      "japanese": "上司は私の意見をばかげたものとして退けた。"
+    }
+  },
+  {
+    "id": 1115,
+    "word": "fade",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "薄れる",
+      "衰える"
+    ],
+    "example": {
+      "english": "Many of my memories of my trip to Italy ten years ago have faded.",
+      "japanese": "10年前にイタリア旅行の思い出の多くは薄れてしまった。"
+    }
+  },
+  {
+    "id": 1116,
+    "word": "conceal",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を隠す",
+      "を秘密にする"
+    ],
+    "example": {
+      "english": "You cannot conceal your true feelings when you speak.",
+      "japanese": "人は話すとき自分の真情を隠すことができない。"
+    }
+  },
+  {
+    "id": 1117,
+    "word": "chew",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）かむ",
+      "をかみ砕く"
+    ],
+    "example": {
+      "english": "You should chew your food well when you eat.",
+      "japanese": "食事するときは食べ物をよくかむべきだ。"
+    }
+  },
+  {
+    "id": 1118,
+    "word": "swallow",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）飲み込む",
+      "をうのみにする",
+      "に耐える"
+    ],
+    "example": {
+      "english": "She swallowed a pill with a glass of water.",
+      "japanese": "彼女はコップ1杯の水で錠剤を飲み込んだ。"
+    }
+  },
+  {
+    "id": 1119,
+    "word": "seal",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を密閉する",
+      "に封をする"
+    ],
+    "example": {
+      "english": "Houses in Hokkaido are sealed to prevent cold winds and snow from getting in.",
+      "japanese": "北海道の家は冷たい風や雪が入り込むのを防ぐように密閉されている。"
+    }
+  },
+  {
+    "id": 1120,
+    "word": "migrate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "移住する",
+      "（鳥などが）渡る"
+    ],
+    "example": {
+      "english": "Between 1880 and 1914, nearly three million Italians migrated to the U.S.",
+      "japanese": "1880年から1914年にかけて300万人近くのイタリア人がアメリカに移住した。"
+    }
+  },
+  {
+    "id": 1121,
+    "word": "exaggerate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）誇張する",
+      "を強調する"
+    ],
+    "example": {
+      "english": "The food company exaggerated the quality of its products.",
+      "japanese": "その食品会社は自社製品の品質を誇張した。"
+    }
+  },
+  {
+    "id": 1122,
+    "word": "accuse",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を非難する",
+      "を告訴する"
+    ],
+    "example": {
+      "english": "She accused me of having spread rumors about her father.",
+      "japanese": "彼女は自分の父親に関するうわさを広めたことで私を非難した。"
+    }
+  },
+  {
+    "id": 1123,
+    "word": "vanish",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "消える"
+    ],
+    "example": {
+      "english": "During the show, the magician vanished from sight of the stage.",
+      "japanese": "ショーの途中、手品師は舞台上で視界から消えた。"
+    }
+  },
+  {
+    "id": 1124,
+    "word": "polish",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を磨く",
+      "を洗練させる"
+    ],
+    "example": {
+      "english": "He polishes the floors of his apartment once a week.",
+      "japanese": "彼は週に一度自分のマンションの床を磨く。"
+    }
+  },
+  {
+    "id": 1125,
+    "word": "wipe",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を拭く",
+      "を拭きとる",
+      "を消し去る"
+    ],
+    "example": {
+      "english": "She wiped her hands with a hand towel.",
+      "japanese": "彼女は手拭きタオルで手を拭いた。"
+    }
+  },
+  {
+    "id": 1126,
+    "word": "sweep",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）掃く"
+    ],
+    "example": {
+      "english": "を一掃する",
+      "japanese": "さっさと通過する"
+    }
+  },
+  {
+    "id": 1127,
+    "word": "mislead",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を誤解させる、欺く",
+      "（人）を間違った方向に導く"
+    ],
+    "example": {
+      "english": "The salesperson misled the customer into buying an expensive product.",
+      "japanese": "その販売員は客を欺いて高価な製品を買わせた。"
+    }
+  },
+  {
+    "id": 1128,
+    "word": "spoil",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を台無しにする",
+      "を甘やかす",
+      "だめになる"
+    ],
+    "example": {
+      "english": "He feels the London Eye spoils the view of London.",
+      "japanese": "彼はロンドンアイがロンドンの景色を台無しにしていると感じている。"
+    }
+  },
+  {
+    "id": 1129,
+    "word": "compound",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を悪化させる",
+      "を合成する",
+      "を混合する"
+    ],
+    "example": {
+      "english": "His sudden illness compounded the financial problems of his company.",
+      "japanese": "彼の突然の病気は彼の会社の財務問題を悪化させた。"
+    }
+  },
+  {
+    "id": 1130,
+    "word": "explode",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "爆発する",
+      "急増する",
+      "を論破する"
+    ],
+    "example": {
+      "english": "If the bomb had exploded, many people would have suffered injuries.",
+      "japanese": "もし爆弾が爆発していたら、多くの人がけがをしていただろう。"
+    }
+  },
+  {
+    "id": 1131,
+    "word": "disgust",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をむかつかせる",
+      "に愛想を尽かせる"
+    ],
+    "example": {
+      "english": "The man was disgusted by the inappropriate remark from the politician.",
+      "japanese": "その男性は政治家の不適切な発言にむかついた。"
+    }
+  },
+  {
+    "id": 1132,
+    "word": "commute",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "通勤［通学］する"
+    ],
+    "example": {
+      "english": "If mass transit isn't available, people will commute with cars.",
+      "japanese": "大量輸送機関が利用できないと、人々は車で通勤するだろう。"
+    }
+  },
+  {
+    "id": 1133,
+    "word": "decorate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を装飾する"
+    ],
+    "example": {
+      "english": "The Smiths like to decorate their house with paintings.",
+      "japanese": "スミス夫妻は自分たちの家を絵画で飾るのを好む。"
+    }
+  },
+  {
+    "id": 1134,
+    "word": "postpone",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を延期する"
+    ],
+    "example": {
+      "english": "We have decided to postpone the meeting until Wednesday.",
+      "japanese": "私たちは水曜日までに会議を延期することに決めた。"
+    }
+  },
+  {
+    "id": 1135,
+    "word": "cease",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をやめる",
+      "終わる"
+    ],
+    "example": {
+      "english": "The small village ceased to exist after the last resident moved away.",
+      "japanese": "その小さな村は最後の住民が大挙した後なくなった。"
+    }
+  },
+  {
+    "id": 1136,
+    "word": "compromise",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "妥協する",
+      "を危うくする"
+    ],
+    "example": {
+      "english": "The salesperson compromised with the buyer on the price.",
+      "japanese": "その販売員は価格面で買い手と妥協した。"
+    }
+  },
+  {
+    "id": 1137,
+    "word": "elect",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を選出する"
+    ],
+    "example": {
+      "english": "The voters were sensible enough to elect him a member of the Diet.",
+      "japanese": "有権者は賢明にも彼を国会議員に選んだ。"
+    }
+  },
+  {
+    "id": 1138,
+    "word": "extract",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を取り［搾り］出す",
+      "を抜粋する"
+    ],
+    "example": {
+      "english": "A juicer is used to extract juice from fruit and vegetables.",
+      "japanese": "ジューサーは果物や野菜から汁を絞り出すのに使われる。"
+    }
+  },
+  {
+    "id": 1139,
+    "word": "inherit",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を受け継ぐ",
+      "を相続する"
+    ],
+    "example": {
+      "english": "She inherited her musical talent from her father.",
+      "japanese": "彼女は父親から音楽的才能を受け継いだ。"
+    }
+  },
+  {
+    "id": 1140,
+    "word": "rear",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（人・動物・植物）を育てる"
+    ],
+    "example": {
+      "english": "This is a good place to rear young children.",
+      "japanese": "ここは幼い子供を育てるのに良い所である。"
+    }
+  },
+  {
+    "id": 1142,
+    "word": "cue",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "合図",
+      "手掛かり",
+      "（次の演技の）キュー"
+    ],
+    "example": {
+      "english": "In face-to-face negotiations, we give off and receive nonverbal cues.",
+      "japanese": "面と向かっての交渉では私たちは非言語的合図を出したり受けたりする。"
+    }
+  },
+  {
+    "id": 1143,
+    "word": "enterprise",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "企業、事業",
+      "企画",
+      "進取の気性"
+    ],
+    "example": {
+      "english": "I work for a global enterprise selling cosmetics around the world.",
+      "japanese": "私は世界中で化粧品を販売している世界的企業に勤めている。"
+    }
+  },
+  {
+    "id": 1144,
+    "word": "output",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "生産（高）",
+      "出力",
+      "排出（量）"
+    ],
+    "example": {
+      "english": "The output of this product has decreased due to the factory closure.",
+      "japanese": "この製品の生産高は工場の閉鎖が原因で減少した。"
+    }
+  },
+  {
+    "id": 1145,
+    "word": "congress",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（米国などの）議会",
+      "会議"
+    ],
+    "example": {
+      "english": "In 1894, Congress passed a law making Labor Day a federal holiday.",
+      "japanese": "1894年、米国議会は「労働者の日」を連邦の祝日にする法律を通過させた。"
+    }
+  },
+  {
+    "id": 1146,
+    "word": "millennium",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "千年間、千年紀"
+    ],
+    "example": {
+      "english": "Animal species have been breeding with one another for many millennia.",
+      "japanese": "動物種は何千年もの間、互いに交わり繁殖してきた。"
+    }
+  },
+  {
+    "id": 1147,
+    "word": "mankind",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "人類"
+    ],
+    "example": {
+      "english": "Environmental destruction threatens the future of mankind.",
+      "japanese": "環境破壊は人類の未来を脅かす。"
+    }
+  },
+  {
+    "id": 1148,
+    "word": "Muslim",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "イスラム教徒"
+    ],
+    "example": {
+      "english": "Muslims pray in mosques on Friday, their holy day of the week.",
+      "japanese": "イスラム教徒は、彼らの聖なる曜日である金曜日にモスクで祈る。"
+    }
+  },
+  {
+    "id": 1149,
+    "word": "estate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（動産・不動産などの）財産",
+      "私有地"
+    ],
+    "example": {
+      "english": "The property is part of my late mother's estate.",
+      "japanese": "その不動産は私の亡き母の財産の一部である。"
+    }
+  },
+  {
+    "id": 1150,
+    "word": "landmine",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "地雷"
+    ],
+    "example": {
+      "english": "The landmine was one of the weapons used in the Vietnam war.",
+      "japanese": "地雷はベトナム戦争で使われた武器の一種だった。"
+    }
+  },
+  {
+    "id": 1151,
+    "word": "caution",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "用心",
+      "警告"
+    ],
+    "example": {
+      "english": "The are expected to do their job with extra caution.",
+      "japanese": "彼らは特別に用心して自分たちの仕事をすることが求められる。"
+    }
+  },
+  {
+    "id": 1152,
+    "word": "controversy",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "論争"
+    ],
+    "example": {
+      "english": "There has been controversy over revisions to the constitution.",
+      "japanese": "憲法の改正に関する論争が続いてきている。"
+    }
+  },
+  {
+    "id": 1153,
+    "word": "consensus",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "総意",
+      "（意見の）一致"
+    ],
+    "example": {
+      "english": "The consensus of the class is that we will run a cafe at the school festival.",
+      "japanese": "クラスの総意は私たちが文化祭でカフェを運営することである。"
+    }
+  },
+  {
+    "id": 1154,
+    "word": "retail",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "小売り"
+    ],
+    "example": {
+      "english": "The shop sells local farm products at retail prices.",
+      "japanese": "その店は地元の農産物を小売価格で販売する。"
+    }
+  },
+  {
+    "id": 1155,
+    "word": "fiber",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "繊維（質)",
+      "本質",
+      "精神力"
+    ],
+    "example": {
+      "english": "Brown rice is rich in dietary fiber and vitamin B.",
+      "japanese": "玄米は食物繊維とビタミンBが豊富である。"
+    }
+  },
+  {
+    "id": 1156,
+    "word": "scent",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（よい）香り",
+      "香水"
+    ],
+    "example": {
+      "english": "Tea is sometimes combined with the scent of various flowers.",
+      "japanese": "茶はさまざまな花の香りと組み合わされることがある。"
+    }
+  },
+  {
+    "id": 1157,
+    "word": "beverage",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（水以外の）飲み物、飲料"
+    ],
+    "example": {
+      "english": "Some religions prohibited people from drinking alcoholic beverages.",
+      "japanese": "人々にアルコール飲料を飲むことを禁じていた宗教もある。"
+    }
+  },
+  {
+    "id": 1158,
+    "word": "supplement",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "栄養補助剤、サプリメント",
+      "補足"
+    ],
+    "example": {
+      "english": "He takes many supplements every day.",
+      "japanese": "彼は毎日多くのサプリメントを服用する。"
+    }
+  },
+  {
+    "id": 1159,
+    "word": "diabetes",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "糖尿病"
+    ],
+    "example": {
+      "english": "There is a close link between obesity and diabetes.",
+      "japanese": "肥満と糖尿病との間には密接な関連がある。"
+    }
+  },
+  {
+    "id": 1160,
+    "word": "province",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "州、省",
+      "（the ～s）地方",
+      "分野"
+    ],
+    "example": {
+      "english": "About one-third of the population in Canada lives in the province of Ontario.",
+      "japanese": "カナダの人口の約3分の1はオンタリオ州に住んでいる。"
+    }
+  },
+  {
+    "id": 1161,
+    "word": "reef",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（岩や砂の）礁",
+      "暗礁"
+    ],
+    "example": {
+      "english": "Coral reefs provide us with rich fishing resources.",
+      "japanese": "サンゴ礁は私たちに豊かな漁業資源を提供する。"
+    }
+  },
+  {
+    "id": 1162,
+    "word": "microbe",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "微生物",
+      "細菌"
+    ],
+    "example": {
+      "english": "Soil full of microbes can help plants grow strong.",
+      "japanese": "微生物をたくさん含む土壌は植物が丈夫に育つのを助ける。"
+    }
+  },
+  {
+    "id": 1163,
+    "word": "excess",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "過剰、超過"
+    ],
+    "example": {
+      "english": "Drinking in excess will weaken your immune system.",
+      "japanese": "過度の飲酒は体の免疫系を弱めることになる。"
+    }
+  },
+  {
+    "id": 1164,
+    "word": "gallery",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "美術館、画廊",
+      "観客、ギャラリー",
+      "回廊"
+    ],
+    "example": {
+      "english": "I visited a wonderful gallery of modern art in New York.",
+      "japanese": "私はニューヨークですばらしい現代美術館を訪れた。"
+    }
+  },
+  {
+    "id": 1165,
+    "word": "fame",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "名声"
+    ],
+    "example": {
+      "english": "He worked for fame, not for the sake of his family.",
+      "japanese": "彼は家族のためではなく、名声のために働いた。"
+    }
+  },
+  {
+    "id": 1166,
+    "word": "deadline",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "締め切り"
+    ],
+    "example": {
+      "english": "Be sure to submit your report before the deadline.",
+      "japanese": "必ず締め切り前に報告書を提出するように。"
+    }
+  },
+  {
+    "id": 1167,
+    "word": "undergraduate",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "学部学生"
+    ],
+    "example": {
+      "english": "As an undergraduate, he studied English grammar.",
+      "japanese": "学部学生のとき彼は英文法を研究した。"
+    }
+  },
+  {
+    "id": 1168,
+    "word": "slavery",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "奴隷制度",
+      "苦役"
+    ],
+    "example": {
+      "english": "Even before Lincoln, some politicians had tried to abolish slavery.",
+      "japanese": "リンカーン以前にも、中には奴隷制度を廃止することを試みた政治家もいた。"
+    }
+  },
+  {
+    "id": 1169,
+    "word": "prey",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "獲物",
+      "犠牲者"
+    ],
+    "example": {
+      "english": "Many types of animals hunt prey for food.",
+      "japanese": "たくさんの種類の動物が食べるために獲物を狩る。"
+    }
+  },
+  {
+    "id": 1170,
+    "word": "mess",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "散らかった状態［物］",
+      "混乱状態"
+    ],
+    "example": {
+      "english": "My parents had me clean up the mess in the living room.",
+      "japanese": "私の両親は私に居間の散らかった物を片付けさせた。"
+    }
+  },
+  {
+    "id": 1171,
+    "word": "recession",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "不況",
+      "後退"
+    ],
+    "example": {
+      "english": "Our country has not recovered from the economic recession yet.",
+      "japanese": "我が国は経済不況からまだ回復していない。"
+    }
+  },
+  {
+    "id": 1172,
+    "word": "retreat",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "後退、退却",
+      "（計画・決定などの）撤回"
+    ],
+    "example": {
+      "english": "The military were forced to make a retreat from the enemy.",
+      "japanese": "軍隊は敵陣から退却することを余儀なくされた。"
+    }
+  },
+  {
+    "id": 1173,
+    "word": "grave",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "墓",
+      "（the ～）死"
+    ],
+    "example": {
+      "english": "Every time she returns home, she visits her grandmother's grave.",
+      "japanese": "故郷に戻るたびに彼女は祖母の墓にお参りする。"
+    }
+  },
+  {
+    "id": 1174,
+    "word": "column",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "コラム",
+      "（新聞などの）欄",
+      "円柱",
+      "（縦）列"
+    ],
+    "example": {
+      "english": "She writes a newspaper column once a week.",
+      "japanese": "彼女は週に1回新聞のコラムを書いている。"
+    }
+  },
+  {
+    "id": 1175,
+    "word": "scenery",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（集合的に）景色",
+      "背景"
+    ],
+    "example": {
+      "english": "They had lunch on the balcony, with a view of the mountain scenery.",
+      "japanese": "彼らは山の景色の展望がきくバルコニーで昼食をとった。"
+    }
+  },
+  {
+    "id": 1176,
+    "word": "plot",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（小説などの）筋",
+      "陰謀"
+    ],
+    "example": {
+      "english": "The plot of this detective novel is too complicated to understand.",
+      "japanese": "この探偵小説の筋は複雑すぎて理解できない。"
+    }
+  },
+  {
+    "id": 1177,
+    "word": "sculpture",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "彫刻（作品）"
+    ],
+    "example": {
+      "english": "You can see Michelangelo's famous sculpture in St. Peter's in Vatican City.",
+      "japanese": "バチカン市国のサンピエトロ大聖堂ではミケランジェロの有名な彫刻を見ることができる。"
+    }
+  },
+  {
+    "id": 1178,
+    "word": "tablet",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "タブレット（型情報端末）",
+      "錠剤",
+      "平板"
+    ],
+    "example": {
+      "english": "Some think that it is more convenient to read novels on a tablet.",
+      "japanese": "タブレットで小説を読むほうが便利だと考える人がいる。"
+    }
+  },
+  {
+    "id": 1179,
+    "word": "dense",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "密集した、密度の高い",
+      "（霧などが）濃い"
+    ],
+    "example": {
+      "english": "We had trouble walking through a dense crowd of people.",
+      "japanese": "私たちは密集した人混みの中を通り抜けるのに苦労した。"
+    }
+  },
+  {
+    "id": 1180,
+    "word": "exotic",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "外来の",
+      "異国風の"
+    ],
+    "example": {
+      "english": "The zoo has an exhibition of rare and exotic animals.",
+      "japanese": "その動物園は珍しい外来の動物を公開している。"
+    }
+  },
+  {
+    "id": 1181,
+    "word": "acid",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "酸性の",
+      "酸っぱい",
+      "辛辣な"
+    ],
+    "example": {
+      "english": "It is not certain that acid rain is caused by air pollution.",
+      "japanese": "酸性雨が大気汚染によって引き起こされるのかはっきりしない。"
+    }
+  },
+  {
+    "id": 1182,
+    "word": "bitter",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "苦い、つらい",
+      "辛辣な",
+      "怒りっぽい"
+    ],
+    "example": {
+      "english": "He had the bitter experience of fighting in the war.",
+      "japanese": "彼は戦争で戦うというつらい経験をした。"
+    }
+  },
+  {
+    "id": 1183,
+    "word": "sensible",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "賢明な",
+      "実用的な",
+      "顕著な"
+    ],
+    "example": {
+      "english": "She made the sensible decision of consulting her lawer.",
+      "japanese": "彼女は弁護士に相談するという賢明な判断をした。"
+    }
+  },
+  {
+    "id": 1184,
+    "word": "noble",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "高貴な",
+      "堂々とした",
+      "高潔な"
+    ],
+    "example": {
+      "english": "He married a woman of a noble family.",
+      "japanese": "彼は高貴な家系の女性と結婚した。"
+    }
+  },
+  {
+    "id": 1185,
+    "word": "vague",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "漠然とした、あいまいな",
+      "おぼろげな"
+    ],
+    "example": {
+      "english": "I have a vague memory of my conversation with her on the phone.",
+      "japanese": "私は彼女と電話で話をしたという漠然とした記憶がある。"
+    }
+  },
+  {
+    "id": 1186,
+    "word": "parallel",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "（～と）平行［並行］の",
+      "類似した"
+    ],
+    "example": {
+      "english": "She drove on a road that is parallel to the main road.",
+      "japanese": "彼女は本街道と並行している道路を車で運転した。"
+    }
+  },
+  {
+    "id": 1187,
+    "word": "tense",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "張り詰めた、緊張した"
+    ],
+    "example": {
+      "english": "The goal of this exercise is to relax tense muscles and reduce stress.",
+      "japanese": "この運動の目的は緊張した筋肉をほぐし、ストレスを減らすことである。"
+    }
+  },
+  {
+    "id": 1188,
+    "word": "vertical",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "垂直の",
+      "縦方向の"
+    ],
+    "example": {
+      "english": "She placed the ladder in a vertical position.",
+      "japanese": "彼女ははしごを垂直の位置に置いた。"
+    }
+  },
+  {
+    "id": 1189,
+    "word": "indigenous",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "原産の、先住の",
+      "（その土地に）固有の"
+    ],
+    "example": {
+      "english": "Pumpkins are vegetables indigenous in Central America.",
+      "japanese": "カボチャは中央アメリカ原産の野菜である。"
+    }
+  },
+  {
+    "id": 1190,
+    "word": "aboriginal",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "（通例A～）アボリジニの",
+      "原生の、先住の"
+    ],
+    "example": {
+      "english": "Aboriginal art varies across the regions of Australia.",
+      "japanese": "アボリジニの芸術はオーストラリア国内の地域によりさまざまである。"
+    }
+  },
+  {
+    "id": 1191,
+    "word": "seasonal",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "季節の、季節的な"
+    ],
+    "example": {
+      "english": "Seasonal discounts have become common in the fashion industry.",
+      "japanese": "季節割引はファッション業界では一般的になっている。"
+    }
+  },
+  {
+    "id": 1192,
+    "word": "abundant",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "豊富な",
+      "（～に）富む（in）"
+    ],
+    "example": {
+      "english": "Thanks to his abundant talents, he succeeded as an entertainer.",
+      "japanese": "豊かな才能のおかげで彼は芸能人として成功した。"
+    }
+  },
+  {
+    "id": 1193,
+    "word": "hybrid",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "ハイブリッドの",
+      "雑種の",
+      "混成の"
+    ],
+    "example": {
+      "english": "Those who drive hybrid cars get the privilege of free parking here.",
+      "japanese": "ハイブリッド車は運転する人はここで無料駐車の特権を得る。"
+    }
+  },
+  {
+    "id": 1194,
+    "word": "irrelevant",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "（～にとって）無関係の（to）",
+      "見当違いの"
+    ],
+    "example": {
+      "english": "He asked the teacher a question irrelevant to the topic.",
+      "japanese": "彼は先生にその話題に無関係の質問をした。"
+    }
+  },
+  {
+    "id": 1195,
+    "word": "ridiculous",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "ばかげた",
+      "法外な"
+    ],
+    "example": {
+      "english": "The reporter asked him a ridiculous question at the press conference.",
+      "japanese": "その記者は記者会見で彼にばかげた質問をした。"
+    }
+  },
+  {
+    "id": 1196,
+    "word": "fairy",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "妖精の（ような）"
+    ],
+    "example": {
+      "english": "The queen in that fairy tale was so cruel to Snow White.",
+      "japanese": "そのおとぎ話に出てくる女王は白雪姫にひどく冷酷だった。"
+    }
+  },
+  {
+    "id": 1197,
+    "word": "sensory",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "感覚の"
+    ],
+    "example": {
+      "english": "Sensory information travels throughout the nervous system.",
+      "japanese": "感覚の情報は神経系のすみずみまで伝わる。"
+    }
+  },
+  {
+    "id": 1198,
+    "word": "chronic",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "慢性の",
+      "長引く",
+      "常習の"
+    ],
+    "example": {
+      "english": "Healthy life habits can reduce the risk of chronic diseases.",
+      "japanese": "健康的な生活習慣は、慢性疾患の危険性を減らす可能性がある。"
+    }
+  },
+  {
+    "id": 1199,
+    "word": "voluntary",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "自発的な",
+      "無償の"
+    ],
+    "example": {
+      "english": "People often act on the basis of their voluntary will.",
+      "japanese": "人々はよく自らの自発的意思に基づいて行動する。"
+    }
+  },
+  {
+    "id": 1200,
+    "word": "inclined",
+    "part_of_speech": "形容詞",
+    "meanings": [
+      "傾向がある",
+      "傾いた"
+    ],
+    "example": {
+      "english": "She is inclined to be very optimistic about her future.",
+      "japanese": "彼女は自分の将来についてとても楽観的な傾向がある。"
+    }
+  },
+  {
+    "id": 1201,
+    "word": "infer",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を推論する、推測する"
+    ],
+    "example": {
+      "english": "I inferred that her hometown is London from her words.",
+      "japanese": "私は彼女の言葉から彼女の故郷がロンドンであると推測した。"
+    }
+  },
+  {
+    "id": 1202,
+    "word": "esteem",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を尊敬する",
+      "を見なす"
+    ],
+    "example": {
+      "english": "He is highly esteemed as a genious in mathematics.",
+      "japanese": "彼は数学の天才として大いに尊敬されている。"
+    }
+  },
+  {
+    "id": 1203,
+    "word": "tackle",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "に取り組む",
+      "と（～のことで）話をつける"
+    ],
+    "example": {
+      "english": "We mmust find an effective way to tackle this task.",
+      "japanese": "私たちはこの任務に取り組むための効果的な方法を見つけなければならない。"
+    }
+  },
+  {
+    "id": 1204,
+    "word": "venture",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "危険を冒して進む",
+      "を思い切ってする"
+    ],
+    "example": {
+      "english": "The company ventured into an unknown territory.",
+      "japanese": "その会社は危険を冒して未知の分野に乗り出した。"
+    }
+  },
+  {
+    "id": 1205,
+    "word": "accelerate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を加速させる、促進する",
+      "加速する"
+    ],
+    "example": {
+      "english": "The new goal of the government is to accelerate economic growth.",
+      "japanese": "政府の新しい目標は経済成長を加速させることである。"
+    }
+  },
+  {
+    "id": 1206,
+    "word": "accustom",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（人）を慣れさせる"
+    ],
+    "example": {
+      "english": "I am accustomed to hearing criticism from the media.",
+      "japanese": "私はマスコミからの批判を聞くのに慣れている。"
+    }
+  },
+  {
+    "id": 1207,
+    "word": "amuse",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を面白がらせる、楽しませる"
+    ],
+    "example": {
+      "english": "His jokes and funny stories amused us.",
+      "japanese": "彼の冗談や滑稽な話は私たちを面白がらせた。"
+    }
+  },
+  {
+    "id": 1208,
+    "word": "flourish",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "繁栄する",
+      "繁茂する",
+      "を振りかざす"
+    ],
+    "example": {
+      "english": "Renaissance art flourished in Italy between the 14th and 16th century.",
+      "japanese": "ルネサンス芸術は14世紀から16世紀にかけてイタリアで繁栄した。"
+    }
+  },
+  {
+    "id": 1209,
+    "word": "thrive",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "繁栄する、うまくいく",
+      "繁茂する"
+    ],
+    "example": {
+      "english": "The local economy is thriving after the new factory was built.",
+      "japanese": "新しい工場が建設された後、地元の経済は反映している。"
+    }
+  },
+  {
+    "id": 1210,
+    "word": "nurture",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をはぐくむ",
+      "を養成する"
+    ],
+    "example": {
+      "english": "She nurtured her talents by painting and writing poems.",
+      "japanese": "彼女は絵を描いたり詩を書いたりして自分の才能をはぐくんだ。"
+    }
+  },
+  {
+    "id": 1211,
+    "word": "click",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（を）クリックする",
+      "をカチッと鳴らす",
+      "カチッと音がする"
+    ],
+    "example": {
+      "english": "To download the file, you need to click on the filename on the screen.",
+      "japanese": "ファイルをダウンロードするには、画面上のファイル名をクリックする必要がある。"
+    }
+  },
+  {
+    "id": 1212,
+    "word": "spin",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "回転する",
+      "を回転させる",
+      "（糸）を紡ぐ"
+    ],
+    "example": {
+      "english": "The earth is spinning around on its axis.",
+      "japanese": "地球は地軸を中心に回転している。"
+    }
+  },
+  {
+    "id": 1213,
+    "word": "clip",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を切り抜く",
+      "を（はさみで）切り取る",
+      "をクリップで留める"
+    ],
+    "example": {
+      "english": "She clips suitable articles from the newspaper for future use.",
+      "japanese": "彼女は将来使うために新聞から適当な記事を切り抜く。"
+    }
+  },
+  {
+    "id": 1214,
+    "word": "drag",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を引きずる",
+      "ぐずぐずする"
+    ],
+    "example": {
+      "english": "I saw people dragging big bags at the airport.",
+      "japanese": "私は空港で人々が大きなバッグを引きずっているのを見た。"
+    }
+  },
+  {
+    "id": 1215,
+    "word": "cast",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を投じる",
+      "に役を当てる"
+    ],
+    "example": {
+      "english": "His repeated mistakes forced us to cast doubt on his ability.",
+      "japanese": "彼の度重なる失敗のせいで、私たちは彼の能力に疑問を投げかけざるを得なかった。"
+    }
+  },
+  {
+    "id": 1216,
+    "word": "scatter",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をまき散らす",
+      "分散する"
+    ],
+    "example": {
+      "english": "There is litter scattered on the beach.",
+      "japanese": "海岸にごみがまき散らされている。"
+    }
+  },
+  {
+    "id": 1217,
+    "word": "tempt",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を（～する）気にさせる（to do）",
+      "を引き付ける"
+    ],
+    "example": {
+      "english": "Manufacturers may be tempted to ignore the consumers' complaints.",
+      "japanese": "製造業者は消費者の苦情を無視したくなることもある。"
+    }
+  },
+  {
+    "id": 1218,
+    "word": "withdraw",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を引き出す",
+      "を撤回する",
+      "撤退する"
+    ],
+    "example": {
+      "english": "She withdrew 20, 000 yen from the ATM at a convenience store.",
+      "japanese": "彼女はコンビニのATMから20000円引き出した。"
+    }
+  },
+  {
+    "id": 1219,
+    "word": "yawn",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "あくびをする"
+    ],
+    "example": {
+      "english": "I noticed that he was trying hard not to yawn during class.",
+      "japanese": "私は彼が授業中必死にあくびをしないようにしているのに気付いた。"
+    }
+  },
+  {
+    "id": 1220,
+    "word": "blink",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "まばたきする",
+      "点滅する",
+      "（目）をまたたく"
+    ],
+    "example": {
+      "english": "He has a habit of blinking whenever he gives a speech.",
+      "japanese": "彼は演説するときはいつもまばたきをする癖がある。"
+    }
+  },
+  {
+    "id": 1221,
+    "word": "dye",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を染める",
+      "染まる"
+    ],
+    "example": {
+      "english": "The woman decided to dye her hair brown.",
+      "japanese": "その女性は髪を茶色に染めることにした。"
+    }
+  },
+  {
+    "id": 1222,
+    "word": "spill",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をこぼす",
+      "こぼれる"
+    ],
+    "example": {
+      "english": "She accidentally spilled red wine on her white dress.",
+      "japanese": "彼女は誤って自分の白いドレスに赤ワインをこぼした。"
+    }
+  },
+  {
+    "id": 1223,
+    "word": "irritate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をいらいらさせる",
+      "をひりひりさせる"
+    ],
+    "example": {
+      "english": "Jason's loud voice irritates her.",
+      "japanese": "ジェイソンの大声は彼女をいらいらさせる。"
+    }
+  },
+  {
+    "id": 1224,
+    "word": "insult",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を侮辱する"
+    ],
+    "example": {
+      "english": "He insulted me by suggesting that I cheated in the exam.",
+      "japanese": "彼は私が試験でカンニングしたとほのめかして私を侮辱した。"
+    }
+  },
+  {
+    "id": 1225,
+    "word": "enforce",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を施行［実施］する",
+      "を（～に）強制する"
+    ],
+    "example": {
+      "english": "The police enforce laws which the government has made.",
+      "japanese": "警察は政府が作った法律を実施する。"
+    }
+  },
+  {
+    "id": 1226,
+    "word": "rob",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "から（金品を）奪う"
+    ],
+    "example": {
+      "english": "Three men robbed a woman of her wallet on a crowded train.",
+      "japanese": "3人の男が混雑した電車の中で女性から財布を奪った。"
+    }
+  },
+  {
+    "id": 1227,
+    "word": "drain",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "（液体）を流出させる",
+      "（液体が）流れ出る"
+    ],
+    "example": {
+      "english": "She forgot to drain water from the bathtub.",
+      "japanese": "彼女は浴槽から水を流すのを忘れた。"
+    }
+  },
+  {
+    "id": 1228,
+    "word": "suspend",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を停職［停学、出場停止］にする",
+      "を一時的に中断する"
+    ],
+    "example": {
+      "english": "The athlete has been suspended for not following the rules.",
+      "japanese": "その運動選手は規則を守らなかったために出場停止になっている。"
+    }
+  },
+  {
+    "id": 1229,
+    "word": "drift",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "漂う",
+      "さまよう",
+      "を押し流す"
+    ],
+    "example": {
+      "english": "The sailboat slowly drifted in the sea.",
+      "japanese": "帆船はゆっくりと海の上を漂った。"
+    }
+  },
+  {
+    "id": 1230,
+    "word": "forgive",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を許す",
+      "を免除する"
+    ],
+    "example": {
+      "english": "Please forgive me for having kept you waiting for such a long time.",
+      "japanese": "こんなにも長い間あなたをお待たせしたことを許してください。"
+    }
+  },
+  {
+    "id": 1231,
+    "word": "revise",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を修正する",
+      "を改訂する"
+    ],
+    "example": {
+      "english": "I need to revise my essay draft by next Monday.",
+      "japanese": "私は次の月曜日までに小論文の草稿を修正する必要がある。"
+    }
+  },
+  {
+    "id": 1232,
+    "word": "recruit",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を募る",
+      "に新人を補充する"
+    ],
+    "example": {
+      "english": "Some colleges spend a lot of money to recruit talented students.",
+      "japanese": "才能のある学生を募るために多額の金を使う大学もある。"
+    }
+  },
+  {
+    "id": 1233,
+    "word": "twist",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をねじる、ひねる",
+      "を歪曲する"
+    ],
+    "example": {
+      "english": "While playing tennis, I twisted my ankle.",
+      "japanese": "テニスをしていて、私は足首をひねった。"
+    }
+  },
+  {
+    "id": 1234,
+    "word": "crush",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を押しつぶし",
+      "を弾圧する",
+      "を絞り出す"
+    ],
+    "example": {
+      "english": "Every morning, commuters in Tokyo are crushed on trains.",
+      "japanese": "毎朝、東京の通勤者は列車の中で押しつぶされる。"
+    }
+  },
+  {
+    "id": 1235,
+    "word": "pin",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "をピンで留める",
+      "を突き刺す"
+    ],
+    "example": {
+      "english": "She pinned a note onto the bulletin board.",
+      "japanese": "彼女は掲示板にメモをピンで留めた。"
+    }
+  },
+  {
+    "id": 1236,
+    "word": "uncover",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を暴く",
+      "を発掘する"
+    ],
+    "example": {
+      "english": "The magazine uncovered the actor's secret.",
+      "japanese": "雑誌はその俳優の秘密を暴いた。"
+    }
+  },
+  {
+    "id": 1237,
+    "word": "exploit",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を活用する",
+      "を搾取する、につけ込む"
+    ],
+    "example": {
+      "english": "I do not think my company is fully exploiting its human resources.",
+      "japanese": "私は会社が人的資源を十分に活用しているとは思わない。"
+    }
+  },
+  {
+    "id": 1238,
+    "word": "implement",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を実行［実施］する"
+    ],
+    "example": {
+      "english": "Japan implemented its recycling policy in 1991.",
+      "japanese": "日本は1991年にそのリサイクル政策を実施した。"
+    }
+  },
+  {
+    "id": 1239,
+    "word": "integrate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を統合する",
+      "融合する"
+    ],
+    "example": {
+      "english": "The students integrated the ideas from their teacher with their own.",
+      "japanese": "生徒たちは教師からのアイディアと自分たちのアイディアを統合した。"
+    }
+  },
+  {
+    "id": 1240,
+    "word": "incorporate",
+    "part_of_speech": "動詞",
+    "meanings": [
+      "を取り入れる",
+      "を法人にする",
+      "合併する"
+    ],
+    "example": {
+      "english": "Many words have been incorporated into English from Latin and French.",
+      "japanese": "多くの語がラテン語やフランス語から英語に取り入れられてきた。"
+    }
+  },
+  {
+    "id": 1241,
+    "word": "profile",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "人物の紹介",
+      "横顔",
+      "輪郭"
+    ],
+    "example": {
+      "english": "The reporter was told to write a profile of the new mayor.",
+      "japanese": "記者は新市長の人物紹介を書くように言われた。"
+    }
+  },
+  {
+    "id": 1242,
+    "word": "appetite",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "食欲",
+      "欲求"
+    ],
+    "example": {
+      "english": "People tend to have a bigger appetite when they feel a lot of stress.",
+      "japanese": "大きなストレスを感じると、人は食欲が増す傾向にある。"
+    }
+  },
+  {
+    "id": 1243,
+    "word": "impulse",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "衝動",
+      "刺激"
+    ],
+    "example": {
+      "english": "She could not resist the impulse to eat ice cream.",
+      "japanese": "彼女はアイスクリームを食べたいという衝動に抵抗できなかった。"
+    }
+  },
+  {
+    "id": 1244,
+    "word": "script",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "台本",
+      "筆跡"
+    ],
+    "example": {
+      "english": "The directory insisted that the actors memorize the script.",
+      "japanese": "監督は俳優たちが台本を暗記することを要求した。"
+    }
+  },
+  {
+    "id": 1245,
+    "word": "anniversary",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（～周年）記念日"
+    ],
+    "example": {
+      "english": "The celebrated their fifth wedding anniversary last Sunday.",
+      "japanese": "彼らはこの前の日曜日に結婚5周年を祝った。"
+    }
+  },
+  {
+    "id": 1246,
+    "word": "pension",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "年金"
+    ],
+    "example": {
+      "english": "She started to receive her retirement pension at the age of 65.",
+      "japanese": "彼女は65歳で退職者年金を受け取り始めた。"
+    }
+  },
+  {
+    "id": 1247,
+    "word": "temper",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "気質、気性",
+      "機嫌",
+      "かんしゃく"
+    ],
+    "example": {
+      "english": "Her temper is sweet and calm, so everyone likes her.",
+      "japanese": "彼女の気性は優しくて穏やかなので、だれもが彼女のことを好きである。"
+    }
+  },
+  {
+    "id": 1248,
+    "word": "cortex",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "皮質",
+      "樹皮"
+    ],
+    "example": {
+      "english": "The frontal cortex is the most recently evolved part of the brain.",
+      "japanese": "前頭皮質は脳の中で最も遅くに進化した部分である。"
+    }
+  },
+  {
+    "id": 1249,
+    "word": "syndrome",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "症候群",
+      "～現象"
+    ],
+    "example": {
+      "english": "Inborn heart defects are associated with many genetics syndromes.",
+      "japanese": "生まれつきの心臓欠陥は多くの遺伝的症候群と関連付けられる。"
+    }
+  },
+  {
+    "id": 1250,
+    "word": "chamber",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（特定の目的の）部屋",
+      "議場",
+      "（the ～）議院"
+    ],
+    "example": {
+      "english": "The guide took me through the chambers of the castle.",
+      "japanese": "ガイドは私を連れて城の部屋を案内した。"
+    }
+  },
+  {
+    "id": 1251,
+    "word": "utility",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "公共事業",
+      "公共料金",
+      "実用性"
+    ],
+    "example": {
+      "english": "Free markets may be replaced with publicly owned utilities someday.",
+      "japanese": "自由市場はいつか公営公共事業に取って代わられるかもしれない。"
+    }
+  },
+  {
+    "id": 1252,
+    "word": "cattle",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（集合的に）牛"
+    ],
+    "example": {
+      "english": "He raises cattle and pigs at the foot of the mountain.",
+      "japanese": "彼はその山のふもとで牛と豚を飼育している。"
+    }
+  },
+  {
+    "id": 1253,
+    "word": "herd",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "（牛などの）群れ",
+      "群衆"
+    ],
+    "example": {
+      "english": "A large herd of elephants have moved into the fields.",
+      "japanese": "ゾウの大きな群れが野原に移動した。"
+    }
+  },
+  {
+    "id": 1254,
+    "word": "fluid",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "流動体、液体"
+    ],
+    "example": {
+      "english": "The patient is only allowed to drink fulids today.",
+      "japanese": "その患者は今日は水分をとることだけが許可されている。"
+    }
+  },
+  {
+    "id": 1255,
+    "word": "pity",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "残念なこと",
+      "哀れみ"
+    ],
+    "example": {
+      "english": "It is a great pity that you have to leave so quickly.",
+      "japanese": "あなたがこんなにも早く出発しなければならないとはとても残念です。"
+    }
+  },
+  {
+    "id": 1256,
+    "word": "priest",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "聖職者"
+    ],
+    "example": {
+      "english": "He became a Christian priest and a professor at Cambridge University.",
+      "japanese": "彼はキリスト今日の聖職者になり、ケンブリッジ大学の教授になった。"
+    }
+  },
+  {
+    "id": 1257,
+    "word": "acquaintance",
+    "part_of_speech": "名詞",
+    "meanings": [
+      "知人",
+      "面識",
+      "知識"
+    ],
+    "example": {
+      "english": "She is just a casual acquaintance.",
+      "japanese": "彼女はただのちょっとした知り合いだ。"
     }
   }
 ]

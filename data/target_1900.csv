@@ -1,7 +1,7 @@
 1, 動詞, create, を創り出す;を引き起こす, Technological change will create new ways of living., 技術の変化は新たな生活様式を創り出す。
-2, 動詞, increase, 増加する;を増やす, Japan's real GDP increased by 1.9 percent last year., 日本の実質GDPは昨年1.9パーセント増加した。
+2, , increase, 増加する;を増やす, Japan's real GDP increased by 1.9 percent last year., 日本の実質GDPは昨年1.9パーセント増加した。
 3, 動詞, improve, を向上させる;よくなる, Light exercise improves thinking ability., 軽い運動は思考力を向上させる。
-4, 動詞, mean, を意味する;(...する）つもりである(to do), Her silence means that she does not agree with you, 彼女の沈黙は彼女があなたに同意していないことを意味する。
+4, 動詞, mean, を意味する;(...する）つもりである(to do), Her silence means that she does not agree with you., 彼女の沈黙は彼女があなたに同意していないことを意味する。
 5, 動詞, own, を所有する;（事実・罪など）を認める, A millionaire from China owns this hotel., 中国の富豪がこのホテルを所有している。
 6, 動詞, include, を含む, Jane's work includes typing letters and making appointments., ジェーンの仕事は手紙をタイプしたり、アポを取ったりすることを含む。
 7, 動詞, consider, を見なす;について考える;consider A (to B) B 「AをBとみなす」, She considers herself to be lucky., 彼女は自分自身を幸運だと見なしている。
@@ -61,3 +61,212 @@
 1047, 名詞, ray, 光線; ひらめき、一筋の光明, The sun's rays are strongest in the summer., 太陽光線は夏に最も強くなる。
 1048, 名詞, distress, 苦悩; 苦痛; 困窮, Mary's poor behavior causes great distress for her mother., メアリーの良くない行動が彼女の母親にとって大きな苦悩の原因である。
 1049, 名詞, joint, 関節; 接合（部）, I twisted one of my knee joints while running., 私はランニング中に片方のひざの関節をひねった。
+1050, , expedition, 遠征（隊）、探検（隊）, He went on an expedition to the South Pole., 彼は南極への探検に出発した。
+1051, , adolescent, 青年, Society must protect adolescents from dangerous websites., 社会は青年を危険なウェブサイトから守らなければならない。
+1052, , shade, （日）陰;色合い;日よけ;微妙な相違, An elderly woman was sitting under the shade of a big tree., 1人の老婦人が大きな木の陰に座っていた。
+1053, , jury, 陪審（員団）;審査員団, A trial by jury is a standard practice in America., アメリカでは陪審による裁判が標準的な習慣である。
+1054, 名詞, ethic, 倫理;道徳;（～s）倫理［道徳］規範, The country's people have a strong work ethic., その国の人々は強い労働倫理を持っている。
+1055, 名詞, penalty, （刑）罰; 罰金; ペナルティ, He faced a heavy penalty for kidnapping., 彼は誘拐に対して重い刑罰を科された。
+1056, 名詞, faculty, 能力、機能; 学部; 教授陣, Using your creative faculties might help you solve the problem., 創造力を使うことはあなたがその問題を解決する助けになるかもしれない。
+1057, 名詞, scheme, 計画; 体系; 陰謀, The new housing scheme is only made possible by government action., 新しい住宅供給計画は政府の働きかけがあって初めて可能になる。
+1058, 名詞, nutrition, 栄養（の摂取）, The child receives balanced nutrition from a variety of foods., その子供は種々の食べ物からバランスのいい栄養を取っている。
+1059, 名詞, particle, （微）粒子; ほんのわずか, Cars release various gases and particles into the air., 車は空気中にさまざまなガスや粒子を放出する。
+1060, 名詞, molecule, 分子; 微粒子, Electron microscopes allow us to investigate organic molecules., 電子顕微鏡は私たちが有機分子を調べるのを可能にする。
+1061, 名詞, nationality, 国籍; 国民; 国民性, People say that her nationality is Japanese., 彼女の国籍は日本だと言われている。
+1062, 名詞, poll, 世論調査; 投票（数）, An opinion poll asks people about their political preferences., 世論調査は人々に政治的志向について尋ねる。
+1063, 名詞, clinic, 診療所; クリニック;（病院内の）～科, He started a medical clinic after working at a university hospital., 彼は大学病院で働いた後、内科診療所を始めた。
+1064, 名詞, dementia, 認知症, Some aging patients with dementia go missing when they are out alone., 認知症の高齢患者の中には1人で外出すると行方不明になる人がいる。
+1065, 名詞, fatigue, 疲労, The best way to relieve your fatigue is to have sufficient sleep., 疲労を和らげる最善の方法は十分な睡眠をとることである。
+1066, 名詞, dilemma, ジレンマ; 板挟み, He is faced with the dilemma of whether to quit his job., 彼は仕事を辞めるかどうかというジレンマに直面している。
+1067, 名詞, queue, （順番を待つ）列, He joined the queue of people waiting for the bus., 彼はバスを待つ人々の列に加わった。
+1068, 名詞, curve, （道路などの）カーブ; 曲線, He drove through many curves on the mountain roads., 彼は山道のたくさんのカーブを車で通り抜けた。
+1069, 名詞, narrative, 物語、話;（小説の）叙述部分、地の文, He wrote a narrative based on his years living abroad., 彼は自分の外国生活を基にした物語を書いた。
+1070, 名詞, fingerprint, 指紋, Even a fingerprint left on a glass may cause a complaint from a customer., グラスに残っている指紋でさえも客からの苦情を招くことがある。
+1071, 名詞, file, ファイル; （書類の）とじ込み, Please refer to the attached file for the details., 詳細については添付のファイルを参照してください。
+1072, 名詞, wilderness, 荒野; （庭・町などの）放置された部分, He is planning to explore the Alaskan wilderness., 彼はアラスカの荒野を探検することを計画している。
+1073, 名詞, pesticide, 殺虫剤; 除草剤, Organic foods are produced without chemical pesticides., 有機食品は化学殺虫剤を使わずに作られる。
+1074, 名詞, panic, パニック（状態); 狼狽, She got into a panic when she couldn't find her credit card., 彼女はクレジットカードが見つからなかったとき、パニックに陥った。
+1075, 名詞, fabric, 織物、布（地）;構造, Using organic cotton as fabric for clothes has become widespread., 洋服の生地としてオーガニックコットンを使うことが広まっている。
+1076, 名詞, fantasy, 空想; 幻想; 幻想的作品, The unique feature of this movie is its fusion of reality and fantasy., この映画の独自の特徴は現実と空想の融合である。
+1077, 名詞, fancy, （気まぐれな）好み;空想;思いつき, I took a great fancy to my piano teacher., 私はピアノの先生をとても好きになった。
+1078, 名詞, virtue, 美徳;長所;効能, Most children are taught the virtue of honesty from old stories., たいていの子供は昔話から正直という美徳を教わる。
+1079, 形容詞, grateful, 感謝している, I am really grateful to you and your family for your hospitality., 私はあなたとあなたのご家族の親切なおもてなしに本当に感謝しています。
+1080, , valid, 妥当な;有効な, The conclusion he drew from the evidence was valid., 彼がその証拠から導いた結論は妥当であった。
+1081, , elaborate, 入念な;凝った, He made an elaborate plan to climb Mont Blanc., 彼はモンブランに登る入念な計画を立てた。
+1082, , moderate, 適度な;穏健な, The doctor recommended that my father take moderate exercise every day., 医師は私の父に毎日適度な運動をするように勧めた。
+1083, , dynamic, 活動的な、精力的な;動的な, All the audience was touched by the dynamic performance of the actor., 観客は皆その役者の精力的な演技に感動した。
+1084, , brave, 勇敢な; 見事な, He was a brave fighter who challenged hundreds of enemies by himself., 彼は1人で何百人もの敵兵に挑んだ勇敢な兵士であった。
+1085, , brilliant, 素晴らしい;才能にあふれた;きらめく, She is such a brilliant violinist that she can play any type of music., 彼女はとても素晴らしいバイオリン奏者で、どんな種類の音楽も演奏することができる。
+1086, , tremendous, 途方もない、莫大な;すばらしい, Tokyo spent a tremendous amount of money on moving its fish market., 東京都は魚市場を移転することに莫大な金額を費やした。
+1087, , oral, 口頭の, The student gave an oral report on the subject., その生徒はその課題について口頭での報告をした。
+1088, , innocent, 無罪の;無邪気な;無知の, The court found her innocent and she was released., 裁判所が彼女を無罪だと判定し、彼女は釈放された。
+1089, , subsequent, その後の, The village was severely damaged by heavy rains and subsequent floods., 村は豪雨とその後の洪水によって大きな損害を受けた。
+1090, , shallow, 浅い; 浅薄な, Children can walk around in the shallow end of the pool., 子供たちはプールの浅いほうの端で歩き回ることができる。
+1091, , indifferent, 無関心な, Many young people are indifferent to politics and the economy., 多くの若者は政治や経済に無関心である。
+1092, , inferior, より劣った, I think this wine is inferior to that wine in flavor., このワインはあのワインより風味が劣っていると私は思う。
+1093, , awkward, 気まずい;ぎこちない;厄介な, After her remark, there was an awkward silence., 彼女の発言の後、気まずい沈黙があった。
+1094, , obese, 肥満した, A survey shows that 30 percent of men are obese., ある調査は男性の30%が肥満であることを示している。
+1095, , pregnant, 妊娠した;（～で）満ちている（with）, Pregnant women are advised not to take any medicine., 妊娠している女性はいかなる薬も服用しないように勧められる。
+1096, , intimate, 親密な; 密接な, The actress described her intimate relationship with her husband., その女優は夫との親密な関係について述べた。
+1097, , medieval, 中世の;時代遅れの, He has a deep interest in medieval European history., 彼は中世ヨーロッパ史に深い関心を抱いている。
+1098, , sacred, 神聖な;宗教的な;厳粛な, Buddhists in Osaka paid a large sum to maintain their sacred temple., 大阪の仏教徒たちは自分たちの神聖な寺を維持するために大金を払った。
+1099, 副詞・前置詞, simultaneously, （～と）同時に（with）;一斉に, Suddenly, heavy rain hit the town simultaneously with lightning., 突然、雷と同時に大雨が町を襲った。
+1100, , versus, （A versus Bで）A対B;AかBか, A lot of soccer fans watched the Brazil versus Italy game on TV., 多くのサッカーファンがブラジル対イタリアの試合をテレビで見た。
+1101, 動詞, proceed, 進む、進行する;（～を）続行する（with）, In case of emergency, please proceed calmly to the nearest exit., 緊急の場合、落ち着いて最寄りの出口にお進みください。
+1102, , orient, （人）を（環境などに）慣らす（to）; （受身形で）（関心などが）（～に）向いている, The event is helpful for orienting new students to our university., このイベントは新入生を我が大学に慣れさせるのに役立つ。
+1103, , surf, （インターネット上の情報など）を見て回る, He surfs the Internet constantly, collecting information about political scandals., 彼は絶えずネットのサイトを見て回り、政治的スキャンダルに関する情報を集めている。
+1104, , filter, をろ過する;を取り除く, This device is designed to filter out dirt from the water., この装置は水からごみを取り除くように作られている。
+1105, , bind, を縛る;を束縛する;を結び付ける, She bound the sheets of paper together with string., 彼女はひもでそれらの紙をひとまとめに縛った。
+1106, , resort, （好ましくない手段に）訴える、頼る（to）, If the criminals' demands are not accepted, they may resort to force., 犯人たちの要求が受け入れられなければ、彼らは武力に訴えるかもしれない。
+1107, , reinforce, を強化する;を補強する, The student reinforced his knowledge by taking extra lessons online., その生徒はオンラインで追加レッスンを受けることで知識を強化した。
+1108, , accumulate, を蓄積する、集める;積もる, The couple accumulated $20,000 to buy a new car., その夫婦は新車を購入するために20000ドルを貯めた。
+1109, , bet, と確信する、断言する;（金などを）かける, If you work hard, I bet you can complete this task in a month., 懸命に働けば、きっと君は一か月でこの仕事を完了できるよ。
+1110, , advocate, を主張する;を擁護する, Vegans advocate avoiding all food of animal origin., 完全菜食主義者は動物由来のすべての食べ物を避けることを主張する。
+1111, , constitute,を構成する;になる、に等しい, At our university, women constitute the majority of the psychology majors., 私たちの大学では、女性が心理学専攻学生の大多数を構成する。
+1112, , undertake, を引き受ける;を保証する;に着手する, She undertook the task of preparing all the necessary materials., 彼女は必要な資料をすべてそろえるという仕事を引き受けた。
+1113, , grip, を握る;をとらえる, Scared by the noise, she gripped her father's arm tightly., 物音におびえて、彼女は父親の腕をしっかりと握った。
+1114, , dismiss, （意見など）を退ける;を解雇する, My boss dismissed my opinion as nonsense., 上司は私の意見をばかげたものとして退けた。
+1115, , fade, 薄れる;衰える, Many of my memories of my trip to Italy ten years ago have faded., 10年前にイタリア旅行の思い出の多くは薄れてしまった。
+1116, , conceal,を隠す;を秘密にする, You cannot conceal your true feelings when you speak., 人は話すとき自分の真情を隠すことができない。
+1117, , chew, （を）かむ;をかみ砕く, You should chew your food well when you eat., 食事するときは食べ物をよくかむべきだ。
+1118, , swallow, （を）飲み込む;をうのみにする;に耐える, She swallowed a pill with a glass of water., 彼女はコップ1杯の水で錠剤を飲み込んだ。
+1119, , seal, を密閉する;に封をする, Houses in Hokkaido are sealed to prevent cold winds and snow from getting in., 北海道の家は冷たい風や雪が入り込むのを防ぐように密閉されている。
+1120, , migrate, 移住する;（鳥などが）渡る, Between 1880 and 1914, nearly three million Italians migrated to the U.S.,1880年から1914年にかけて300万人近くのイタリア人がアメリカに移住した。
+1121, , exaggerate,（を）誇張する;を強調する, The food company exaggerated the quality of its products., その食品会社は自社製品の品質を誇張した。
+1122, , accuse,を非難する;を告訴する, She accused me of having spread rumors about her father., 彼女は自分の父親に関するうわさを広めたことで私を非難した。
+1123, , vanish, 消える, During the show, the magician vanished from sight of the stage., ショーの途中、手品師は舞台上で視界から消えた。
+1124, , polish, を磨く;を洗練させる, He polishes the floors of his apartment once a week., 彼は週に一度自分のマンションの床を磨く。
+1125, , wipe, を拭く;を拭きとる;を消し去る, She wiped her hands with a hand towel., 彼女は手拭きタオルで手を拭いた。
+1126, , sweep, （を）掃く,を一掃する,さっさと通過する, It is my job to sweep the path in front of the house every day., 毎日家の前の通路を掃くのが私の仕事だ。
+1127, , mislead, を誤解させる、欺く;（人）を間違った方向に導く, The salesperson misled the customer into buying an expensive product., その販売員は客を欺いて高価な製品を買わせた。
+1128, , spoil, を台無しにする;を甘やかす;だめになる, He feels the London Eye spoils the view of London., 彼はロンドンアイがロンドンの景色を台無しにしていると感じている。
+1129, , compound, を悪化させる;を合成する;を混合する, His sudden illness compounded the financial problems of his company., 彼の突然の病気は彼の会社の財務問題を悪化させた。
+1130, , explode, 爆発する;急増する;を論破する, If the bomb had exploded, many people would have suffered injuries., もし爆弾が爆発していたら、多くの人がけがをしていただろう。
+1131, , disgust, をむかつかせる;に愛想を尽かせる, The man was disgusted by the inappropriate remark from the politician., その男性は政治家の不適切な発言にむかついた。
+1132, , commute, 通勤［通学］する, If mass transit isn't available, people will commute with cars., 大量輸送機関が利用できないと、人々は車で通勤するだろう。
+1133, , decorate, を装飾する, The Smiths like to decorate their house with paintings., スミス夫妻は自分たちの家を絵画で飾るのを好む。
+1134, , postpone, を延期する, We have decided to postpone the meeting until Wednesday., 私たちは水曜日までに会議を延期することに決めた。
+1135, , cease, をやめる;終わる, The small village ceased to exist after the last resident moved away., その小さな村は最後の住民が大挙した後なくなった。
+1136, , compromise, 妥協する;を危うくする, The salesperson compromised with the buyer on the price., その販売員は価格面で買い手と妥協した。
+1137, , elect, を選出する, The voters were sensible enough to elect him a member of the Diet., 有権者は賢明にも彼を国会議員に選んだ。
+1138, , extract, を取り［搾り］出す;を抜粋する, A juicer is used to extract juice from fruit and vegetables., ジューサーは果物や野菜から汁を絞り出すのに使われる。
+1139, , inherit, を受け継ぐ;を相続する, She inherited her musical talent from her father., 彼女は父親から音楽的才能を受け継いだ。
+1140, , rear, （人・動物・植物）を育てる, This is a good place to rear young children., ここは幼い子供を育てるのに良い所である。
+1141, 名詞, empathy, 感情移入、共感; She has great empathy with people in need., 彼女は困窮している人々に大いに感情移入する。
+1142, , cue, 合図;手掛かり;（次の演技の）キュー, In face-to-face negotiations, we give off and receive nonverbal cues., 面と向かっての交渉では私たちは非言語的合図を出したり受けたりする。
+1143, , enterprise, 企業、事業;企画;進取の気性, I work for a global enterprise selling cosmetics around the world., 私は世界中で化粧品を販売している世界的企業に勤めている。
+1144, , output, 生産（高）;出力;排出（量）, The output of this product has decreased due to the factory closure., この製品の生産高は工場の閉鎖が原因で減少した。
+1145, , congress, （米国などの）議会;会議, In 1894, Congress passed a law making Labor Day a federal holiday., 1894年、米国議会は「労働者の日」を連邦の祝日にする法律を通過させた。
+1146, , millennium, 千年間、千年紀, Animal species have been breeding with one another for many millennia., 動物種は何千年もの間、互いに交わり繁殖してきた。
+1147, , mankind, 人類, Environmental destruction threatens the future of mankind., 環境破壊は人類の未来を脅かす。
+1148, , Muslim, イスラム教徒, Muslims pray in mosques on Friday, their holy day of the week., イスラム教徒は、彼らの聖なる曜日である金曜日にモスクで祈る。
+1149, , estate,（動産・不動産などの）財産;私有地, The property is part of my late mother's estate., その不動産は私の亡き母の財産の一部である。
+1150, 名詞, landmine, 地雷, The landmine was one of the weapons used in the Vietnam war., 地雷はベトナム戦争で使われた武器の一種だった。
+1151, 名詞, caution, 用心; 警告, The are expected to do their job with extra caution., 彼らは特別に用心して自分たちの仕事をすることが求められる。
+1152, 名詞, controversy, 論争, There has been controversy over revisions to the constitution., 憲法の改正に関する論争が続いてきている。
+1153, 名詞, consensus, 総意; （意見の）一致, The consensus of the class is that we will run a cafe at the school festival., クラスの総意は私たちが文化祭でカフェを運営することである。
+1154, , retail, 小売り, The shop sells local farm products at retail prices., その店は地元の農産物を小売価格で販売する。
+1155, , fiber, 繊維（質);本質;精神力, Brown rice is rich in dietary fiber and vitamin B., 玄米は食物繊維とビタミンBが豊富である。
+1156, , scent, （よい）香り;香水, Tea is sometimes combined with the scent of various flowers., 茶はさまざまな花の香りと組み合わされることがある。
+1157, , beverage, （水以外の）飲み物、飲料, Some religions prohibited people from drinking alcoholic beverages., 人々にアルコール飲料を飲むことを禁じていた宗教もある。
+1158, , supplement, 栄養補助剤、サプリメント;補足, He takes many supplements every day., 彼は毎日多くのサプリメントを服用する。
+1159, , diabetes, 糖尿病, There is a close link between obesity and diabetes., 肥満と糖尿病との間には密接な関連がある。
+1160, , province, 州、省;（the ～s）地方;分野, About one-third of the population in Canada lives in the province of Ontario., カナダの人口の約3分の1はオンタリオ州に住んでいる。
+1161, , reef, （岩や砂の）礁;暗礁, Coral reefs provide us with rich fishing resources., サンゴ礁は私たちに豊かな漁業資源を提供する。
+1162, , microbe, 微生物;細菌, Soil full of microbes can help plants grow strong., 微生物をたくさん含む土壌は植物が丈夫に育つのを助ける。
+1163, , excess, 過剰、超過, Drinking in excess will weaken your immune system., 過度の飲酒は体の免疫系を弱めることになる。
+1164, , gallery, 美術館、画廊;観客、ギャラリー;回廊, I visited a wonderful gallery of modern art in New York., 私はニューヨークですばらしい現代美術館を訪れた。
+1165, , fame, 名声, He worked for fame, not for the sake of his family., 彼は家族のためではなく、名声のために働いた。
+1166, , deadline, 締め切り, Be sure to submit your report before the deadline., 必ず締め切り前に報告書を提出するように。
+1167, , undergraduate, 学部学生, As an undergraduate, he studied English grammar., 学部学生のとき彼は英文法を研究した。
+1168, , slavery, 奴隷制度;苦役, Even before Lincoln, some politicians had tried to abolish slavery., リンカーン以前にも、中には奴隷制度を廃止することを試みた政治家もいた。
+1169, , prey, 獲物;犠牲者, Many types of animals hunt prey for food., たくさんの種類の動物が食べるために獲物を狩る。
+1170, , mess, 散らかった状態［物］;混乱状態, My parents had me clean up the mess in the living room., 私の両親は私に居間の散らかった物を片付けさせた。
+1171, , recession, 不況;後退, Our country has not recovered from the economic recession yet., 我が国は経済不況からまだ回復していない。
+1172, , retreat, 後退、退却;（計画・決定などの）撤回, The military were forced to make a retreat from the enemy., 軍隊は敵陣から退却することを余儀なくされた。
+1173, , grave, 墓;（the ～）死, Every time she returns home, she visits her grandmother's grave., 故郷に戻るたびに彼女は祖母の墓にお参りする。
+1174, , column, コラム;（新聞などの）欄;円柱;（縦）列, She writes a newspaper column once a week., 彼女は週に1回新聞のコラムを書いている。
+1175, , scenery, （集合的に）景色;背景, They had lunch on the balcony, with a view of the mountain scenery., 彼らは山の景色の展望がきくバルコニーで昼食をとった。
+1176, , plot, （小説などの）筋;陰謀, The plot of this detective novel is too complicated to understand., この探偵小説の筋は複雑すぎて理解できない。
+1177, , sculpture, 彫刻（作品）, You can see Michelangelo's famous sculpture in St. Peter's in Vatican City., バチカン市国のサンピエトロ大聖堂ではミケランジェロの有名な彫刻を見ることができる。
+1178, , tablet, タブレット（型情報端末）;錠剤;平板, Some think that it is more convenient to read novels on a tablet., タブレットで小説を読むほうが便利だと考える人がいる。
+1179, 形容詞, dense, 密集した、密度の高い;（霧などが）濃い, We had trouble walking through a dense crowd of people., 私たちは密集した人混みの中を通り抜けるのに苦労した。
+1180, , exotic, 外来の;異国風の, The zoo has an exhibition of rare and exotic animals., その動物園は珍しい外来の動物を公開している。
+1181, , acid, 酸性の;酸っぱい;辛辣な, It is not certain that acid rain is caused by air pollution., 酸性雨が大気汚染によって引き起こされるのかはっきりしない。
+1182, , bitter, 苦い、つらい;辛辣な;怒りっぽい, He had the bitter experience of fighting in the war., 彼は戦争で戦うというつらい経験をした。
+1183, , sensible, 賢明な;実用的な;顕著な, She made the sensible decision of consulting her lawer., 彼女は弁護士に相談するという賢明な判断をした。
+1184, , noble, 高貴な;堂々とした;高潔な, He married a woman of a noble family., 彼は高貴な家系の女性と結婚した。
+1185, , vague, 漠然とした、あいまいな;おぼろげな, I have a vague memory of my conversation with her on the phone., 私は彼女と電話で話をしたという漠然とした記憶がある。
+1186, , parallel, （～と）平行［並行］の;類似した, She drove on a road that is parallel to the main road., 彼女は本街道と並行している道路を車で運転した。
+1187, , tense, 張り詰めた、緊張した, The goal of this exercise is to relax tense muscles and reduce stress., この運動の目的は緊張した筋肉をほぐし、ストレスを減らすことである。
+1188, , vertical, 垂直の;縦方向の, She placed the ladder in a vertical position., 彼女ははしごを垂直の位置に置いた。
+1189, , indigenous, 原産の、先住の;（その土地に）固有の, Pumpkins are vegetables indigenous in Central America., カボチャは中央アメリカ原産の野菜である。
+1190, , aboriginal, （通例A～）アボリジニの;原生の、先住の, Aboriginal art varies across the regions of Australia., アボリジニの芸術はオーストラリア国内の地域によりさまざまである。
+1191, , seasonal, 季節の、季節的な, Seasonal discounts have become common in the fashion industry., 季節割引はファッション業界では一般的になっている。
+1192, , abundant, 豊富な;（～に）富む（in）, Thanks to his abundant talents, he succeeded as an entertainer., 豊かな才能のおかげで彼は芸能人として成功した。
+1193, , hybrid, ハイブリッドの;雑種の;混成の, Those who drive hybrid cars get the privilege of free parking here., ハイブリッド車は運転する人はここで無料駐車の特権を得る。
+1194, , irrelevant, （～にとって）無関係の（to）;見当違いの, He asked the teacher a question irrelevant to the topic., 彼は先生にその話題に無関係の質問をした。
+1195, , ridiculous, ばかげた;法外な, The reporter asked him a ridiculous question at the press conference., その記者は記者会見で彼にばかげた質問をした。
+1196, , fairy, 妖精の（ような）, The queen in that fairy tale was so cruel to Snow White., そのおとぎ話に出てくる女王は白雪姫にひどく冷酷だった。
+1197, , sensory, 感覚の, Sensory information travels throughout the nervous system., 感覚の情報は神経系のすみずみまで伝わる。
+1198, , chronic, 慢性の;長引く;常習の, Healthy life habits can reduce the risk of chronic diseases., 健康的な生活習慣は、慢性疾患の危険性を減らす可能性がある。
+1199, , voluntary, 自発的な;無償の, People often act on the basis of their voluntary will., 人々はよく自らの自発的意思に基づいて行動する。
+1200, , inclined, 傾向がある;傾いた, She is inclined to be very optimistic about her future., 彼女は自分の将来についてとても楽観的な傾向がある。
+1201, 動詞, infer, を推論する、推測する, I inferred that her hometown is London from her words., 私は彼女の言葉から彼女の故郷がロンドンであると推測した。
+1202, , esteem, を尊敬する;を見なす, He is highly esteemed as a genious in mathematics., 彼は数学の天才として大いに尊敬されている。
+1203, , tackle, に取り組む;と（～のことで）話をつける, We mmust find an effective way to tackle this task., 私たちはこの任務に取り組むための効果的な方法を見つけなければならない。
+1204, , venture, 危険を冒して進む;を思い切ってする, The company ventured into an unknown territory., その会社は危険を冒して未知の分野に乗り出した。
+1205, , accelerate, を加速させる、促進する;加速する, The new goal of the government is to accelerate economic growth., 政府の新しい目標は経済成長を加速させることである。
+1206, , accustom, （人）を慣れさせる, I am accustomed to hearing criticism from the media., 私はマスコミからの批判を聞くのに慣れている。
+1207, , amuse, を面白がらせる、楽しませる, His jokes and funny stories amused us., 彼の冗談や滑稽な話は私たちを面白がらせた。
+1208, , flourish, 繁栄する;繁茂する;を振りかざす, Renaissance art flourished in Italy between the 14th and 16th century., ルネサンス芸術は14世紀から16世紀にかけてイタリアで繁栄した。
+1209, , thrive, 繁栄する、うまくいく;繁茂する, The local economy is thriving after the new factory was built., 新しい工場が建設された後、地元の経済は反映している。
+1210, , nurture, をはぐくむ;を養成する, She nurtured her talents by painting and writing poems., 彼女は絵を描いたり詩を書いたりして自分の才能をはぐくんだ。
+1211, , click, （を）クリックする;をカチッと鳴らす;カチッと音がする, To download the file, you need to click on the filename on the screen., ファイルをダウンロードするには、画面上のファイル名をクリックする必要がある。
+1212, , spin, 回転する;を回転させる;（糸）を紡ぐ, The earth is spinning around on its axis., 地球は地軸を中心に回転している。
+1213, , clip, を切り抜く;を（はさみで）切り取る; をクリップで留める, She clips suitable articles from the newspaper for future use., 彼女は将来使うために新聞から適当な記事を切り抜く。
+1214, , drag, を引きずる;ぐずぐずする, I saw people dragging big bags at the airport., 私は空港で人々が大きなバッグを引きずっているのを見た。
+1215, , cast, を投じる;に役を当てる, His repeated mistakes forced us to cast doubt on his ability., 彼の度重なる失敗のせいで、私たちは彼の能力に疑問を投げかけざるを得なかった。
+1216, , scatter, をまき散らす;分散する, There is litter scattered on the beach., 海岸にごみがまき散らされている。
+1217, , tempt, を（～する）気にさせる（to do）;を引き付ける, Manufacturers may be tempted to ignore the consumers' complaints., 製造業者は消費者の苦情を無視したくなることもある。
+1218, , withdraw, を引き出す;を撤回する;撤退する, She withdrew 20,000 yen from the ATM at a convenience store., 彼女はコンビニのATMから20000円引き出した。
+1219, , yawn, あくびをする, I noticed that he was trying hard not to yawn during class., 私は彼が授業中必死にあくびをしないようにしているのに気付いた。
+1220, , blink, まばたきする;点滅する;（目）をまたたく, He has a habit of blinking whenever he gives a speech., 彼は演説するときはいつもまばたきをする癖がある。
+1221, , dye, を染める;染まる, The woman decided to dye her hair brown., その女性は髪を茶色に染めることにした。
+1222, , spill, をこぼす;こぼれる, She accidentally spilled red wine on her white dress., 彼女は誤って自分の白いドレスに赤ワインをこぼした。
+1223, , irritate, をいらいらさせる;をひりひりさせる, Jason's loud voice irritates her., ジェイソンの大声は彼女をいらいらさせる。
+1224, , insult, を侮辱する, He insulted me by suggesting that I cheated in the exam.,彼は私が試験でカンニングしたとほのめかして私を侮辱した。
+1225, , enforce, を施行［実施］する;を（～に）強制する, The police enforce laws which the government has made., 警察は政府が作った法律を実施する。
+1226, , rob, から（金品を）奪う, Three men robbed a woman of her wallet on a crowded train., 3人の男が混雑した電車の中で女性から財布を奪った。
+1227, , drain, （液体）を流出させる;（液体が）流れ出る, She forgot to drain water from the bathtub., 彼女は浴槽から水を流すのを忘れた。
+1228, , suspend, を停職［停学、出場停止］にする;を一時的に中断する, The athlete has been suspended for not following the rules., その運動選手は規則を守らなかったために出場停止になっている。
+1229, , drift, 漂う;さまよう;を押し流す, The sailboat slowly drifted in the sea., 帆船はゆっくりと海の上を漂った。
+1230, , forgive, を許す;を免除する, Please forgive me for having kept you waiting for such a long time., こんなにも長い間あなたをお待たせしたことを許してください。
+1231, , revise, を修正する;を改訂する, I need to revise my essay draft by next Monday., 私は次の月曜日までに小論文の草稿を修正する必要がある。
+1232, , recruit, を募る;に新人を補充する, Some colleges spend a lot of money to recruit talented students., 才能のある学生を募るために多額の金を使う大学もある。
+1233, , twist, をねじる、ひねる;を歪曲する, While playing tennis, I twisted my ankle., テニスをしていて、私は足首をひねった。
+1234, , crush, を押しつぶし;を弾圧する;を絞り出す, Every morning, commuters in Tokyo are crushed on trains., 毎朝、東京の通勤者は列車の中で押しつぶされる。
+1235, , pin, をピンで留める;を突き刺す, She pinned a note onto the bulletin board., 彼女は掲示板にメモをピンで留めた。
+1236, , uncover, を暴く;を発掘する, The magazine uncovered the actor's secret., 雑誌はその俳優の秘密を暴いた。
+1237, , exploit, を活用する;を搾取する、につけ込む, I do not think my company is fully exploiting its human resources., 私は会社が人的資源を十分に活用しているとは思わない。
+1238, , implement, を実行［実施］する, Japan implemented its recycling policy in 1991., 日本は1991年にそのリサイクル政策を実施した。
+1239, , integrate, を統合する;融合する, The students integrated the ideas from their teacher with their own., 生徒たちは教師からのアイディアと自分たちのアイディアを統合した。
+1240, , incorporate, を取り入れる;を法人にする;合併する, Many words have been incorporated into English from Latin and French., 多くの語がラテン語やフランス語から英語に取り入れられてきた。
+1241, 名詞, profile, 人物の紹介;横顔;輪郭, The reporter was told to write a profile of the new mayor., 記者は新市長の人物紹介を書くように言われた。
+1242, , appetite, 食欲;欲求, People tend to have a bigger appetite when they feel a lot of stress., 大きなストレスを感じると、人は食欲が増す傾向にある。
+1243, , impulse, 衝動;刺激, She could not resist the impulse to eat ice cream., 彼女はアイスクリームを食べたいという衝動に抵抗できなかった。
+1244, , script, 台本;筆跡, The directory insisted that the actors memorize the script., 監督は俳優たちが台本を暗記することを要求した。
+1245, , anniversary, （～周年）記念日, The celebrated their fifth wedding anniversary last Sunday., 彼らはこの前の日曜日に結婚5周年を祝った。
+1246, , pension, 年金, She started to receive her retirement pension at the age of 65., 彼女は65歳で退職者年金を受け取り始めた。
+1247, , temper, 気質、気性;機嫌;かんしゃく, Her temper is sweet and calm, so everyone likes her., 彼女の気性は優しくて穏やかなので、だれもが彼女のことを好きである。
+1248, , cortex, 皮質;樹皮, The frontal cortex is the most recently evolved part of the brain., 前頭皮質は脳の中で最も遅くに進化した部分である。
+1249, , syndrome, 症候群; ～現象, Inborn heart defects are associated with many genetics syndromes., 生まれつきの心臓欠陥は多くの遺伝的症候群と関連付けられる。
+1250, , chamber, （特定の目的の）部屋;議場;（the ～）議院, The guide took me through the chambers of the castle., ガイドは私を連れて城の部屋を案内した。
+1251, , utility, 公共事業;公共料金;実用性, Free markets may be replaced with publicly owned utilities someday., 自由市場はいつか公営公共事業に取って代わられるかもしれない。
+1252, , cattle, （集合的に）牛, He raises cattle and pigs at the foot of the mountain., 彼はその山のふもとで牛と豚を飼育している。
+1253, , herd, （牛などの）群れ;群衆, A large herd of elephants have moved into the fields., ゾウの大きな群れが野原に移動した。
+1254, , fluid, 流動体、液体, The patient is only allowed to drink fulids today., その患者は今日は水分をとることだけが許可されている。
+1255, , pity, 残念なこと;哀れみ, It is a great pity that you have to leave so quickly., あなたがこんなにも早く出発しなければならないとはとても残念です。
+1256, , priest, 聖職者, He became a Christian priest and a professor at Cambridge University., 彼はキリスト今日の聖職者になり、ケンブリッジ大学の教授になった。
+1257, , acquaintance, 知人;面識;知識, She is just a casual acquaintance., 彼女はただのちょっとした知り合いだ。
+1258, 

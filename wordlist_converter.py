@@ -15,6 +15,7 @@ json_file = 'data/target_1900.json'
 data = []
 
 # CSV読み込みと整形
+prev_pas = ''
 with open(csv_file, mode='r', encoding='utf-8', newline='') as f:
     reader = csv.reader(f, delimiter=',', quotechar='"')
     for row in reader:
@@ -24,6 +25,9 @@ with open(csv_file, mode='r', encoding='utf-8', newline='') as f:
             row[4] = row[4].strip() + ', ' + row[5].strip()
             row[5] = row[6]
         # 行の要素を整形して辞書化
+        if row[1].strip() == '':
+            row[1] = prev_pas
+        prev_pas = row[1].strip()
         entry = {
                 "id": int(row[0].strip()),
                 "word": row[2].strip(),
